@@ -42,9 +42,12 @@ The ```worldmodelbench.json``` has a list of dict containing instances for video
 ]
 ```
 - **Video Generation**: Perform video generation model inference. You will find 350 test instances in the worldmodelbench.json file. For *each instance*, follow the instructions below to generate the videos:
-  - **Text-to-Video**: Use the following as the generation prompt: ```" ".join([instance["text_first_frame"], instance["text_instruction"]])```.
-  - **Image-to-Video**: Use the following as the generation prompt: ```instance["first_frame"] + instance["text_instruction"]```.
-**Note**: Please save the video using the **same name** as ```instance["first_frame"]```, replacing the file extension ```.jpg``` with ```.mp4```.
+  - **Text-to-Video**: Use the following as the generation prompt:
+    - ```" ".join([instance["text_first_frame"], instance["text_instruction"]])```.
+  - **Image-to-Video**: Use the following as the generation prompt:
+    - ```instance["first_frame"] + instance["text_instruction"]```.
+
+  **Note**: Please save the video using the **same name** as ```instance["first_frame"]```, replacing the file extension ```.jpg``` with ```.mp4```.
 - **Evaluation**:
 ```
 python evaluate.py --video_dir GENERATED_VIDEOS --judge PATH_TO_JUDGE --save_name RESULTS_FILE
