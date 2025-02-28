@@ -6,7 +6,7 @@ This repo contains the evaluation instructions for the paper "[WorldModelBench: 
 
 ## 🔔News
 
-- **🔥[2025-02-23]: Our [WorldModelBench](https://worldmodelbench-team.github.io/) is now available. We look forward to your participation! 😆**
+- **🔥[2025-02-27]: Our [WorldModelBench](https://worldmodelbench-team.github.io/) is now available. We look forward to your participation! 😆**
 
 ## Introduction
 
@@ -69,10 +69,9 @@ Should you encounter any data samples potentially breaching the copyright or lic
 
 **BibTeX:**
 ```bibtex
-@inproceedings{Li2024WorldModelBench,
+@article{Li2025WorldModelBench,
   title={WorldModelBench: Judging Video Generation Models As World Models},
-  author={Dacheng Li and Yunhao Fang and Yukang Chen and Shuo Yang and Shiyi Cao and Justin Wong and Xiaolong Wang and Hongxu Yin and Joseph E. Gonzalez and Ion Stoica and Song Han and Yao Lu},
-  booktitle={In Submission},
+  author={Dacheng Li and Yunhao Fang and Yukang Chen and Shuo Yang and Shiyi Cao and Justin Wong and Michael Luo and Xiaolong Wang and Hongxu Yin and Joseph E. Gonzalez and Ion Stoica and Song Han and Yao Lu},
   year={2025},
 }
 ```
