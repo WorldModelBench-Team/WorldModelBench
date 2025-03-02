@@ -6,7 +6,7 @@ This repo contains the evaluation instructions for the paper "[WorldModelBench: 
 
 ## 🔔News
 
-- **🔥[2025-02-27]: Our [WorldModelBench](https://worldmodelbench-team.github.io/) is now available. We look forward to your participation! 😆**
+- **🔥[2025-03-02]: Our [WorldModelBench](https://worldmodelbench-team.github.io/) is now available. We look forward to your participation! 😆**
 
 ## Introduction
 
