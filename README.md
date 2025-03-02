@@ -48,9 +48,9 @@ The ```worldmodelbench.json``` has a list of dict containing instances for video
     - Image: ```instance["first_frame"]```, Text: ```instance["text_instruction"]```.
 
   **Note**: Please save the video using the **same name** as ```instance["first_frame"]```, replacing the file extension ```.jpg``` with ```.mp4```.
-- **Evaluation**: Please run the following script in the ```worldmodelbench``` folder.
+- **Evaluation**: Run the following script in the ```worldmodelbench``` folder. Once completed, a ```worldmodelbench_results.json``` file will appear in the same folder.
 ```
-python evaluate.py --video_dir GENERATED_VIDEOS --judge PATH_TO_JUDGE --save_name RESULTS_FILE
+python evaluate.py --model_name TESTED_MODEL --video_dir GENERATED_VIDEOS --judge PATH_TO_JUDGE
 ```
 
 The answers and explanations for the test set questions are withheld. You can submit your results to worldmodelbench.team@gmail.com to be considered for the leaderboard.
