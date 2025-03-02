@@ -48,7 +48,7 @@ The ```worldmodelbench.json``` has a list of dict containing instances for video
     - Image: ```instance["first_frame"]```, Text: ```instance["text_instruction"]```.
 
   **Note**: Please save the video using the **same name** as ```instance["first_frame"]```, replacing the file extension ```.jpg``` with ```.mp4```.
-- **Evaluation**:
+- **Evaluation**: Please run the following script in the ```worldmodelbench``` folder.
 ```
 python evaluate.py --video_dir GENERATED_VIDEOS --judge PATH_TO_JUDGE --save_name RESULTS_FILE
 ```
