@@ -1,8 +1,8 @@
 # WorldModelBench
 
-[**🌐 Homepage**](https://worldmodelbench-team.github.io/) | [**🏆 Leaderboard**](https://worldmodelbench-team.github.io/#leaderboard) | [**📖 WorldModelBench arXiv**](https://arxiv.org/pdf/2311.16502.pdf)
+[**🌐 Homepage**](https://worldmodelbench-team.github.io/) | [**🏆 Leaderboard**](https://worldmodelbench-team.github.io/#leaderboard) | [**📖 WorldModelBench arXiv**](https://arxiv.org/pdf/2502.20694)
 
-This repo contains the evaluation instructions for the paper "[WorldModelBench: Judging Video Generation Models As World Models](https://drive.google.com/drive/folders/1mBBGM1E14JlmXmqRFonlqs76d9uBBZ0T?usp=drive_link)".
+This repo contains the evaluation instructions for the paper "[WorldModelBench: Judging Video Generation Models As World Models](https://arxiv.org/pdf/2502.20694)".
 
 ## 🔔News
 
