@@ -75,4 +75,4 @@ Should you encounter any data samples potentially breaching the copyright or lic
   year={2025},
 }
 ```
-This website is website adapted from [MMMU](https://github.com/MMMU-Benchmark/MMMU).
+This website is adapted from [MMMU](https://github.com/MMMU-Benchmark/MMMU).
