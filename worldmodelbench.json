@@ -1,0 +1,2452 @@
+[
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Stopping",
+        "text_first_frame": "The autonomous vehicle approaches a traffic light on a bridge surrounded by tall buildings. Construction barriers line the sides of the bridge with a yellow traffic light visible ahead.",
+        "text_instruction": "The autonomous vehicle stops at the traffic light on the bridge.",
+        "first_frame": "images/69620089860948e38a4921dd4869d24f.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Lane Changing (Maneuvering)",
+        "text_first_frame": "The first frame shows a road lined with orange and white construction barriers and traffic cones, directing vehicles to the right. A car is driving through the construction zone, and there is a construction vehicle and workers on the right side of the road.",
+        "text_instruction": "The car maneuvers through a construction zone, changing lanes to the left.",
+        "first_frame": "images/09021dd29bdc4c1c9eb834204f34197b.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Maintaining Speed (Steady)",
+        "text_first_frame": "A quiet suburban street is lined with trees and houses. A 'Slow' sign on the left indicates an upcoming speed bump on the road.",
+        "text_instruction": "The autonomous vehicle maintains a steady speed as it approaches a speed bump.",
+        "first_frame": "images/dab935d26229421b93162ea65767df01.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Turning (Slight Turns or Significant Turns)",
+        "text_first_frame": "A blue car is in the center lane of a three-lane road, with a red container truck directly ahead. A white car is in the right lane, and a gray car is in the left lane, against a backdrop of tall buildings and a partly cloudy sky.",
+        "text_instruction": "The blue car makes a slight turn to the left.",
+        "first_frame": "images/a4495affb584425cafc8d14b47993527.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Deceleration (Slowing Down)",
+        "text_first_frame": "A dark-colored car is driving towards a crosswalk at night. The road is marked with directional arrows and there are street signs on the left side.",
+        "text_instruction": "The dark-colored car decelerates as it approaches the crosswalk.",
+        "first_frame": "images/157a6a7082a8423da1c6a024189e8a9c.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Lane Changing (Maneuvering)",
+        "text_first_frame": "A road diverges into two lanes with trees and a building on the right side. Two pedestrians are walking on the left sidewalk near a crosswalk.",
+        "text_instruction": "\"The car executes a lane change maneuver to the right.\"",
+        "first_frame": "images/c7654759469c45f1905355ddf5b0e52d.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Navigating Around Pedestrians or Stationary Objects (e.g., cones)",
+        "text_first_frame": "A street with a crosswalk and a building with a tree, orange construction cones, and a street sign reading 'Esquina Mst' are in view. The image shows an empty crosswalk with no vehicles or pedestrians present.",
+        "text_instruction": "A pedestrian crosses the street as an autonomous vehicle approaches stationary cones.",
+        "first_frame": "images/39c87a6a8a3f457c9f9d148d241cfc8d.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Stopping",
+        "text_first_frame": "A black autonomous vehicle is positioned on the roadside of a tree-lined street. The background features modern buildings and directional street signs.",
+        "text_instruction": "The autonomous vehicle stops on the roadside.",
+        "first_frame": "images/71abe16f2ea9458da5cd5600a8dec5a8.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Acceleration",
+        "text_first_frame": "A dimly lit street at night with an autonomous vehicle positioned on the left side of the frame. The street is flanked by houses and vegetation, and there are some parked cars in the distance.",
+        "text_instruction": "The autonomous vehicle accelerates along the dimly lit street at night.",
+        "first_frame": "images/b3e01aa169d04c9f894907c36a594654.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Overtaking (Lane Straddling)",
+        "text_first_frame": "The scene shows an autonomous vehicle driving on a road, approaching an intersection. Buildings and a sidewalk with construction barriers are visible on the left side, and another vehicle is barely visible ahead in the distance on the right lane.",
+        "text_instruction": "The autonomous vehicle straddles between lanes to overtake.",
+        "first_frame": "images/6b80bdd9a29f4bf2a48fec050615d822.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Deceleration (Slowing Down)",
+        "text_first_frame": "A black SUV is stopped in the middle of a city street with pedestrians crossing at a marked crosswalk. Several buildings and a cloudy sky are visible in the background.",
+        "text_instruction": "The car decelerates to allow pedestrians to cross the street.",
+        "first_frame": "images/030776ed4d694895bd15f3858e1a758c.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Overtaking (Lane Straddling)",
+        "text_first_frame": "The first frame shows an autonomous vehicle approaching a row of parked cars on the left side and a construction site on the right side. Concrete barriers are separating the construction site from the road.",
+        "text_instruction": "The autonomous vehicle straddles the lane to overtake a row of parked cars.",
+        "first_frame": "images/efe50995028049248b80afaa6ca8431c.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Keeping Safe Distance (Obstacle Avoidance)",
+        "text_first_frame": "A car approaches a zebra crossing at night with its headlights on. A person is seen starting to cross the road from the left side of the frame.",
+        "text_instruction": "The car maintains a safe distance and stops as a person crosses the road.",
+        "first_frame": "images/1aab43384f694350a1961f3bbf142fce.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Lane Changing (Maneuvering)",
+        "text_first_frame": "An autonomous vehicle is on a multi-lane road with trees and commercial buildings lining the sides. There is another vehicle ahead in the neighboring lane to the right.",
+        "text_instruction": "\"The autonomous vehicle changes lanes to the left.\"",
+        "first_frame": "images/9017506f0e2c47c1b9aa617002703be3.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Yielding (Waiting for Obstruction)",
+        "text_first_frame": "An autonomous vehicle is approaching an intersection while several other cars are moving through it. The traffic lights are green, and the intersection is surrounded by tall glass buildings and trees lining the street.",
+        "text_instruction": "The autonomous vehicle yields while waiting for the intersection to clear.",
+        "first_frame": "images/1c9994205a3c4381ad1c7bca94be503a.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Keeping Safe Distance (Obstacle Avoidance)",
+        "text_first_frame": "A black car is stopped at an intersection with several pedestrians crossing the street in front of it. There are buildings and traffic lights around the intersection.",
+        "text_instruction": "The car stops at an intersection to keep a safe distance from pedestrians crossing the street.",
+        "first_frame": "images/f7678b7083b7460080f61835c678b6f7.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Acceleration",
+        "text_first_frame": "A vehicle is on a winding road surrounded by trees and greenery on the left side. In the background, there are three tall buildings and a clear sky.",
+        "text_instruction": "The vehicle accelerates along a winding road.",
+        "first_frame": "images/d6f4d5fde42542a7a4e35fc6624ba66c.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Turning (Slight Turns or Significant Turns)",
+        "text_first_frame": "The car is on a wide road lined with tall trees and buildings on both sides. There are road markings visible in the middle and on the sides of the road, and a small booth is located on the left side of the road.",
+        "text_instruction": "The car makes a significant left turn.",
+        "first_frame": "images/ad0eebd1fb5a43a3869d0eb92a2bf210.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Navigating Around Pedestrians or Stationary Objects (e.g., cones)",
+        "text_first_frame": "An autonomous vehicle is stationary at a crosswalk on an urban street. Multiple pedestrians are waiting at the edge of the crosswalk, preparing to cross the street.",
+        "text_instruction": "The autonomous vehicle waits for pedestrians to cross the street.",
+        "first_frame": "images/36f4e831e7474c8792bf0463c12c5130.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Stopping",
+        "text_first_frame": "An autonomous vehicle is moving toward a curb on a tree-lined street with a large building on the left. A pedestrian is standing on the sidewalk near the curb, along with visible road signs and road markings.",
+        "text_instruction": "The autonomous vehicle comes to a complete stop at the curb.",
+        "first_frame": "images/45fea09c1c494d99813cf10fcb0b6ace.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Stopping",
+        "text_first_frame": "An autonomous vehicle is approaching a construction area with orange barricades on the left side of the road. The road is flanked by trees and buildings in the background while the surrounding area appears calm with no other vehicles or pedestrians present.",
+        "text_instruction": "The autonomous vehicle comes to a stop on the road.",
+        "first_frame": "images/3057b6636fb24702802896cd944f9593.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Lane Changing (Maneuvering)",
+        "text_first_frame": "A white van is on a narrow road with the word 'AHEAD' painted on the pavement. The road is flanked by houses on the right side and some construction on the left, with orange barriers and a tree in the background.",
+        "text_instruction": "The white van changes lanes to the right.",
+        "first_frame": "images/812d8dac3c0043e4989b2fd7e021279d.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Turning (Slight Turns or Significant Turns)",
+        "text_first_frame": "A busy urban intersection with several pedestrians crossing and tall buildings lining the street. Multiple vehicles are parked along the road and streetlights are visible in the background.",
+        "text_instruction": "The autonomous vehicle makes a slight turn to the right.",
+        "first_frame": "images/f73d940a9ec24686b8898a0991df19ee.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Maintaining Speed (Steady)",
+        "text_first_frame": "A street view with a large building on the right and parked vehicles on both sides. There is a sign with the number 23 on the left side near some trees and poles.",
+        "text_instruction": "The autonomous vehicle maintains a steady speed while driving straight.",
+        "first_frame": "images/2045f096f06b41fd9cb10a168d52670f.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Turning (Slight Turns or Significant Turns)",
+        "text_first_frame": "A black car is at an intersection with buildings on the left side and traffic lights overhead. Trees are visible on the left, and another car is visible to the left of the black car.",
+        "text_instruction": "The car slightly turns left at the intersection.",
+        "first_frame": "images/313b1edba0a945bd9dea3d730571be85.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Yielding (Waiting for Obstruction)",
+        "text_first_frame": "At a pedestrian crossing with a yield sign, surrounded by greenery and trees in the background, an autonomous vehicle waits. The scene shows a road with a marked crosswalk and a 'Yield' sign ahead, indicating the vehicle's intention to yield.",
+        "text_instruction": "The autonomous vehicle yields and waits as a motorcycle passes.",
+        "first_frame": "images/81e2df0d68144fc1bca59c11e4f1c3ff.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Deceleration (Slowing Down)",
+        "text_first_frame": "At a busy intersection, a green truck is driving on the left of the frame while a black car approaches from the opposite direction. Tall buildings and trees are in the background under a partly cloudy sky.",
+        "text_instruction": "The car decelerates at the intersection.",
+        "first_frame": "images/8a1a79cb19ed4502afad2606681be337.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Keeping Safe Distance (Obstacle Avoidance)",
+        "text_first_frame": "A silver car is at an intersection, maintaining a stationary position, with traffic signals and other vehicles present. The car waits behind a marked white stop line, facing a red stop light, amidst an urban setting with buildings and a clear sky in the background.",
+        "text_instruction": "The silver car maintains a safe distance while avoiding obstacles at the intersection.",
+        "first_frame": "images/fe134ac66eb448c08afbbb69252a8292.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Acceleration",
+        "text_first_frame": "A green bus is stationary on a tree-lined street. The scene includes several large trees and buildings in the background, with a clear sunny sky above.",
+        "text_instruction": "\"The green bus accelerates on the tree-lined street.\"",
+        "first_frame": "images/e5a7fe147f8a4c66867d219457e34a8e.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Keeping Safe Distance (Obstacle Avoidance)",
+        "text_first_frame": "A nighttime city intersection with an autonomous vehicle maintaining a safe distance behind a bus while waiting at a traffic light. Pedestrian overpasses and buildings with illuminated windows are visible in the background.",
+        "text_instruction": "The autonomous vehicle maintains a safe distance while navigating an intersection.",
+        "first_frame": "images/4b9b2c02a4cc49158e3ad9425889daf2.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Keeping Safe Distance (Obstacle Avoidance)",
+        "text_first_frame": "An autonomous vehicle is stopped at an intersection with several other cars crossing in front of it. The sky is partly cloudy, and a large tree is visible in the background.",
+        "text_instruction": "The autonomous vehicle waits at the intersection for a safe distance to proceed.",
+        "first_frame": "images/70438944c75d41318138ef82d7d7a2dc.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Navigating Around Pedestrians or Stationary Objects (e.g., cones)",
+        "text_first_frame": "A road with yellow stripes and a North Buona Vista Rd street sign standing next to it. Dense vegetation and trees fill the background behind the street sign.",
+        "text_instruction": "\"A motorcycle travels down the road past a street sign and vegetation.\"",
+        "first_frame": "images/0380a039d81b449ca8ee0367163e7008.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Stopping",
+        "text_first_frame": "The image shows a residential street lined with parked cars on both sides. An autonomous vehicle is driving along the street, approaching a group of parked cars in the distance.",
+        "text_instruction": "\"The autonomous vehicle comes to a complete stop on a residential street.\"",
+        "first_frame": "images/588dd5faaf2a4697b35195f46196cb8b.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Acceleration",
+        "text_first_frame": "An autonomous vehicle is on the left lane of a road. The surroundings are lined with green trees and construction barriers on both sides of the road.",
+        "text_instruction": "The autonomous vehicle accelerates on a road surrounded by trees.",
+        "first_frame": "images/3bd84dfa58ea46469a3c79466eae4110.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Navigating Around Pedestrians or Stationary Objects (e.g., cones)",
+        "text_first_frame": "The first frame shows a city intersection with traffic lights, buildings, and a crosswalk. The autonomous vehicle is driving on the road near a pedestrian and some stationary objects.",
+        "text_instruction": "The autonomous vehicle navigates around the pedestrian and stationary objects.",
+        "first_frame": "images/ce702d7d1a864ad58fb9afff1beb3998.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Maintaining Speed (Steady)",
+        "text_first_frame": "An autonomous vehicle is on an empty street driving under an overpass, with modern buildings on either side and vegetation alongside the road. The road has clear lane markings and an arrow pointing straight ahead.",
+        "text_instruction": "The autonomous vehicle maintains a steady speed while driving down an empty street.",
+        "first_frame": "images/e0fc2fed943c4edf94810f4e97231bdd.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Deceleration (Slowing Down)",
+        "text_first_frame": "A car is in the center of a multi-lane road, surrounded by buildings. Overhead, a pedestrian bridge crosses the street with traffic moving smoothly in both directions.",
+        "text_instruction": "The car in the center of the lane is decelerating.",
+        "first_frame": "images/bff33f224a7f4946b0bf1542dc47d98b.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Yielding (Waiting for Obstruction)",
+        "text_first_frame": "An autonomous vehicle waits at an intersection with a green traffic light. A silver car is obstructing the path by crossing the intersection from the right side.",
+        "text_instruction": "The autonomous vehicle waits at the intersection for an obstructing car to pass.",
+        "first_frame": "images/1a703796cd364d688c6561af016b2823.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Overtaking (Lane Straddling)",
+        "text_first_frame": "A car is positioned towards the center of a two-lane road surrounded by trees and buildings. A bicycle is parked on the grassy area to the left of the road.",
+        "text_instruction": "The car straddles the lane to overtake a vehicle on its left.",
+        "first_frame": "images/218ee1af10404bec80a55540ce02da7c.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Overtaking (Lane Straddling)",
+        "text_first_frame": "An autonomous vehicle is approaching a construction zone on a slightly curved road under a clear sky. A construction sign and a partially closed lane are visible ahead, with buildings and a traffic sign in the surroundings.",
+        "text_instruction": "The autonomous vehicle straddles the lane line to navigate around a construction zone.",
+        "first_frame": "images/2c05a4aef2224d9682b19ba1eca54f33.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Overtaking (Lane Straddling)",
+        "text_first_frame": "An empty road is seen with a marked pedestrian crosswalk in the foreground and a pedestrian crossing sign on the right side. A pedestrian is starting to cross the road at the marked crosswalk while a cyclist is present on the left side of the road.",
+        "text_instruction": "The pedestrian crosses the road at a marked crosswalk.",
+        "first_frame": "images/22bba90427734536afafe7d1bbc8bc40.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Maintaining Speed (Steady)",
+        "text_first_frame": "A vehicle is seen at a distance on a multi-lane road approaching an intersection with traffic lights. An ambulance is parked to the right, and a modern office building is visible on the left side of the road.",
+        "text_instruction": "The vehicle maintains a steady speed as it approaches an intersection.",
+        "first_frame": "images/59ed00a33c494e499ac276e6caa928c6.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Deceleration (Slowing Down)",
+        "text_first_frame": "A blue vehicle is stopped near a crosswalk, with urban buildings and offices in the background and some other vehicles and greenery nearby. The traffic light is red, indicating that the vehicle must wait before proceeding.",
+        "text_instruction": "The blue vehicle decelerates at a crosswalk.",
+        "first_frame": "images/648d919295694e0db78ab688679fa6fa.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Turning (Slight Turns or Significant Turns)",
+        "text_first_frame": "The view from the autonomous vehicle shows a rainy urban intersection with wet streets and visible crosswalk lines. A silver car on the left side is about to cross the intersection while a black car is partially visible on the right.",
+        "text_instruction": "The autonomous vehicle makes a slight right turn at an intersection.",
+        "first_frame": "images/f286c300520341c59c38383026d6cc50.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Lane Changing (Maneuvering)",
+        "text_first_frame": "An autonomous vehicle is waiting at an intersection in rainy conditions. A person holding an umbrella is beginning to cross the street in front of the vehicle.",
+        "text_instruction": "The autonomous vehicle waits as a person with an umbrella crosses the street in rainy conditions.",
+        "first_frame": "images/799c463e71b942b9813f1f4a122a191d.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Yielding (Waiting for Obstruction)",
+        "text_first_frame": "A pedestrian is crossing an empty street under a pedestrian bridge, with buildings and trees flanking the road. The autonomous vehicle is stationary, observing the pedestrian as they begin to cross.",
+        "text_instruction": "The autonomous vehicle yields to a pedestrian crossing the street.",
+        "first_frame": "images/015a6df7ed1846f9983d0a40005f2d8b.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Yielding (Waiting for Obstruction)",
+        "text_first_frame": "A red car is stopped at an intersection at night, waiting to yield. A silver car is driving through the intersection, with traffic lights visible in the background.",
+        "text_instruction": "The red car yields at the intersection, waiting for the obstruction to clear.",
+        "first_frame": "images/99bcb06196bb4974bd600b4fc553caad.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Acceleration",
+        "text_first_frame": "A modern city street features an autonomous vehicle starting to navigate a curve. The street is lined with trees and vegetation, and a large building looms in the background.",
+        "text_instruction": "The autonomous vehicle accelerates around the curve.",
+        "first_frame": "images/378dd1889800438d8851571359dbfc22.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Navigating Around Pedestrians or Stationary Objects (e.g., cones)",
+        "text_first_frame": "The image shows a crosswalk with two pedestrians beginning to cross from left to right. A white autonomous vehicle is navigating on the street, approaching the crossing pedestrians.",
+        "text_instruction": "\"The autonomous vehicle navigates around pedestrians at a crosswalk.\"",
+        "first_frame": "images/d7678ced96574121a57ce7b698d8c340.jpg"
+    },
+    {
+        "domain": "autonomous vehicle",
+        "subdomain": "Maintaining Speed (Steady)",
+        "text_first_frame": "A car is seen driving down a two-lane road lined with parked cars on the right side and utility poles on the left. The sky is overcast with dense clouds, giving the scene a grey and gloomy appearance.",
+        "text_instruction": "The car maintains a steady speed down the road.",
+        "first_frame": "images/9179748cda1a4f4a895bdb8f3f62af46.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "touching person",
+        "text_first_frame": "A person in a white garment is seated, holding and massaging another person's foot. The foot is elevated, and both individuals appear to be in a calm, indoor setting.",
+        "text_instruction": "A person massages another person's foot.",
+        "first_frame": "images/jnpdzG5NRQc_000156_000166.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "dancing",
+        "text_first_frame": "A crowded dance floor filled with couples is the backdrop. In the foreground, a man and a woman are poised to begin an elegant dance together.",
+        "text_instruction": "The couple elegantly dances on a crowded dance floor.",
+        "first_frame": "images/auAcbpwDCCg_000144_000154.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "hands",
+        "text_first_frame": "A person wearing a black jacket with a visible logo sits at a wooden table. Their hands are positioned on the table as if preparing to drum.",
+        "text_instruction": "The hands drumming on the table.",
+        "first_frame": "images/N84D2gC4LmI_000039_000049.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "eating + drinking",
+        "text_first_frame": "A child is seated at a table, wearing a red shirt, with blue icing smeared on their face. In front of the child is a plate filled with chocolate cake topped with blue icing.",
+        "text_instruction": "The child eagerly eats cake with blue icing directly from the plate.",
+        "first_frame": "images/cC01F6F1b-c_000076_000086.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "dancing",
+        "text_first_frame": "A pair of dancers, one wearing dark pants and sneakers, and the other in high-heeled boots, are positioned on a glossy blue floor. Their feet are slightly apart, poised as if ready to move.",
+        "text_instruction": "The dancers move rhythmically across the blue floor.",
+        "first_frame": "images/IHe9fdBM20A_000018_000028.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "eating + drinking",
+        "text_first_frame": "A baby wearing a white onesie with sports designs sits on a polka-dotted cushion. An adult hand is holding a slice of watermelon close to the baby's mouth.",
+        "text_instruction": "The baby tastes a slice of watermelon.",
+        "first_frame": "images/HoWACxAcm3w_000012_000022.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "hands",
+        "text_first_frame": "A couple stands at the front of a church, holding hands and smiling. They are surrounded by witnesses seated in pews, with a stained glass window and organ pipes in the background.",
+        "text_instruction": "The couple walks down the aisle holding hands.",
+        "first_frame": "images/LJVRSFI3Wbg_000009_000019.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "athletics \u2013 throwing + launching",
+        "text_first_frame": "An athlete is positioned on a javelin runway, preparing to throw. He wears a blue shirt with a label and holds the javelin above his shoulder, poised for action.",
+        "text_instruction": "The athlete throws a javelin with a powerful launch.",
+        "first_frame": "images/a41Z4QMI8xc_000056_000066.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "dancing",
+        "text_first_frame": "A dancer begins a performance under an overpass, with graffiti-decorated columns in the background. The dancer confidently takes center stage, wearing casual streetwear and a bandana.",
+        "text_instruction": "The dancer energetically performs hip-hop moves under an overpass.",
+        "first_frame": "images/7b4Kj1fmAHc_000018_000028.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "athletics \u2013 throwing + launching",
+        "text_first_frame": "An athlete wearing a yellow jersey and white shorts is standing in a discus cage, preparing to throw. The background shows a stadium with bright yellow seating and a large red building.",
+        "text_instruction": "The athlete throws the discus across the field.",
+        "first_frame": "images/Lt0TIkZdUs4_000003_000013.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "cooking",
+        "text_first_frame": "A woman in a patterned tank top and jeans stands in a kitchen, next to an oven. A baking tray with ingredients sits on the counter along with various kitchen items.",
+        "text_instruction": "The woman places a baking tray into the oven.",
+        "first_frame": "images/ozHyEwawtZA_000479_000489.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "cooking",
+        "text_first_frame": "A metal ice cream scoop holds a dollop of pink batter above a white bowl that is filled with more of the batter. Beside the bowl, a cupcake pan with empty white paper liners is visible on a dark surface.",
+        "text_instruction": "The scoop drops pink batter into the cupcake liner.",
+        "first_frame": "images/i8EJnqGvAsM_000041_000051.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "athletics \u2013 jumping",
+        "text_first_frame": "A beach scene with a rocky cliff in the background shows a shirtless man wearing red shorts standing on the sandy beach. In front of him, two people are lying or sitting on the sand near a blue towel with some bags on it.",
+        "text_instruction": "The man in red shorts jumps forward on the beach.",
+        "first_frame": "images/BOCW066kiE4_000000_000010.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "body motions",
+        "text_first_frame": "A baby wearing a light blue patterned onesie is seated in a soft, padded white car seat. In front of the baby, there is a yellow blanket partially covering the seat.",
+        "text_instruction": "The baby raises its right arm while sitting in a car seat.",
+        "first_frame": "images/jFubOQtgv1A_000003_000013.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "using tools",
+        "text_first_frame": "A person holds a tool near a large, spinning grinding wheel attached to a metal apparatus. The grinding wheel is illuminated, casting a bright light on the tool and nearby surface.",
+        "text_instruction": "The person sharpens a tool against the grinding wheel.",
+        "first_frame": "images/ICDYCt9i--A_000052_000062.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "body motions",
+        "text_first_frame": "A seated man in a wheelchair is positioned between two standing individuals, each holding a pad on either side of his head. The room is simply furnished, with a desk visible in the background.",
+        "text_instruction": "Two people assist by holding pads on either side of the seated man's head as he attempts to turn.",
+        "first_frame": "images/odwMlIDhoB4_000125_000135.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "touching person",
+        "text_first_frame": "A person with a light gray shirt is extending their left hand with fingers slightly spread in front of their chest. The background is out of focus, emphasizing the detailed texture of the skin on the hand.",
+        "text_instruction": "The person touches their own hand with the other hand.",
+        "first_frame": "images/SPCQCjpDrB0_000007_000017.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "using tools",
+        "text_first_frame": "A metal sheet is positioned in a press brake, ready for bending. The machinery is in place and a worker's gloved hand can be seen adjusting the setup.",
+        "text_instruction": "The worker uses a press brake to bend the metal sheet.",
+        "first_frame": "images/Id0PfplE4Nc_000012_000022.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "eating + drinking",
+        "text_first_frame": "A group of children sit on a sofa in a wooden room with four open bags of chips placed on a table in front of them. The children wear colorful t-shirts and are focused on the chips.",
+        "text_instruction": "The children reach for and start eating chips from the open bags on the table.",
+        "first_frame": "images/LgHz3V4azL8_000151_000161.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "hands",
+        "text_first_frame": "A hand with long, decorated nails holds another hand showing a white thumbnail, positioned against a leopard print fabric. In the foreground, a brush with a dark handle is poised near the white thumbnail, ready for nail polish application.",
+        "text_instruction": "The hand applies red polish to a white thumbnail.",
+        "first_frame": "images/ieLK6WtK_vA_000140_000150.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "using tools",
+        "text_first_frame": "A hand is holding a flat metal scraper, poised above a metal container coated with thick, dark sludge. The surrounding area has a grimy, industrial appearance with visible bolts around the container rim.",
+        "text_instruction": "The hand uses a scraper to remove sludge from the metal container.",
+        "first_frame": "images/zIbFkTV6je0_000005_000015.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "cooking",
+        "text_first_frame": "A woman in an orange shirt stands next to a closed grill, with trees in the background. The grill is positioned on a red table, and a can of cooking spray is visible nearby.",
+        "text_instruction": "The person opens the grill to check on the pizza cooking inside.",
+        "first_frame": "images/94lBgt-dqaY_000191_000201.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "body motions",
+        "text_first_frame": "A child with medium-length hair is seated at a wooden table, with two microphones positioned above the table, capturing the sound. The background shows a dimly lit stage with a person observing from the audience.",
+        "text_instruction": "The person rapidly taps the surface of a table in a rhythmic motion.",
+        "first_frame": "images/LkJcIDnf2XM_000180_000190.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "interacting with animals",
+        "text_first_frame": "A dog stands on a wet, rainy street, attached to a leash. The street is lined with a bush bearing pink flowers, and there is debris scattered on the road.",
+        "text_instruction": "The person walks the dog on a rainy street.",
+        "first_frame": "images/icFfAz7_Orc_000003_000013.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "eating + drinking",
+        "text_first_frame": "Three children sit at a wooden table, each holding a carrot with green tops. The child on the right side in a gray shirt is about to eat a carrot.",
+        "text_instruction": "A child eats a carrot while sitting at a table.",
+        "first_frame": "images/hZCas7kYm58_000031_000041.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "interacting with animals",
+        "text_first_frame": "A calm pond with a grassy edge is seen, featuring a wooden post on the left and a fishing line suspended above the water. The pond is surrounded by rustic landscapes under an overcast sky.",
+        "text_instruction": "The person casts a fishing line into the pond.",
+        "first_frame": "images/FS9x9nZG1fQ_000017_000027.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "using tools",
+        "text_first_frame": "A person in jeans and black shoes is operating a floor buffer on a green surface. The buffer is connected to a power cord, which trails behind the person.",
+        "text_instruction": "The person uses a floor buffer to polish the surface.",
+        "first_frame": "images/7Chd27mA064_000009_000019.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "cooking",
+        "text_first_frame": "A person's hand is seen near a white measuring cup on a cutting board, with an egg yolk clearly visible inside the cup. The background includes a countertop with a bowl, an egg, and a glass jug filled with water.",
+        "text_instruction": "The person gently places an egg yolk in a measuring cup into a pot of boiling water.",
+        "first_frame": "images/B_e9xjkuVy4_000124_000134.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "hands",
+        "text_first_frame": "A young child in a striped shirt is seated in a pink car seat with a seatbelt fastened. Her arm is raised as she starts to dance, and the sunlight is visible through the car window behind her.",
+        "text_instruction": "The child raises her hand and dances while seated in a car seat.",
+        "first_frame": "images/QyKbhRXblY0_000030_000040.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "interacting with animals",
+        "text_first_frame": "A man in a red turban is focused on shearing a sheep, surrounded by a group of white sheep. A stone wall and trees are in the background, providing a rustic setting.",
+        "text_instruction": "The people are shearing wool from sheep.",
+        "first_frame": "images/U0qCRac_vxU_000003_000013.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "using tools",
+        "text_first_frame": "In a workshop filled with wooden shelves and tools, a man wearing a cap and apron stands at a table saw. He is preparing to cut a wooden board, which is positioned on the table and guided by a wooden fence.",
+        "text_instruction": "The man uses a table saw to cut a wooden board.",
+        "first_frame": "images/zFI6Jh0LN5Y_000100_000110.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "athletics \u2013 throwing + launching",
+        "text_first_frame": "An athlete in sports attire stands in front of a net positioned on a grassy field, preparing to launch a discus. In the background, there's a lush green landscape and a tall net structure.",
+        "text_instruction": "The athlete launches a discus into the air.",
+        "first_frame": "images/fV-NNODHpRo_000008_000018.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "interacting with animals",
+        "text_first_frame": "Four children are sitting atop a camel's back, which is covered with a blue saddle and red handlebars in an indoor arena. The camel is positioned in the foreground, surrounded by a crowd of spectators in the background.",
+        "text_instruction": "The children ride on the camel's back.",
+        "first_frame": "images/gFJGr2UH4U4_000017_000027.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "body motions",
+        "text_first_frame": "A person stands in a room with a gray wall, wearing a sweater and blue shorts, and is positioned near a door. On the wall, there is a butterfly decoration and a circular design above a small vent and door.",
+        "text_instruction": "The person performs a high kick with the right leg.",
+        "first_frame": "images/ACbDeFvAcp4_000007_000017.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "using tools",
+        "text_first_frame": "A man in a brown shirt stands beside a red car at a gas station, interacting with a fuel pump. The area is illuminated by night lights, showcasing the gas station environment.",
+        "text_instruction": "The person is refueling the red car at a gas station.",
+        "first_frame": "images/pygB2uDziD0_000179_000189.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "athletics \u2013 throwing + launching",
+        "text_first_frame": "A person in a blue shirt is holding a yellow frisbee on a grassy lawn. Several people are standing in the background near a parked camper and trees.",
+        "text_instruction": "The person in blue launches the yellow frisbee across the lawn.",
+        "first_frame": "images/e8KlPriHwBU_000025_000035.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "touching person",
+        "text_first_frame": "A woman with shoulder-length hair stands against a white background, wearing glasses and a white shirt. She is securely holding a baby wrapped in a pink sling, with one arm supporting the baby.",
+        "text_instruction": "The person adjusts a pink sling while securely holding the baby.",
+        "first_frame": "images/RN7njShOr0o_000113_000123.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "athletics \u2013 jumping",
+        "text_first_frame": "In a gymnasium, an athlete in a yellow shirt stands far away from a series of large, blue padded mats along the wall. The floor is made of polished wood, and various gym equipment is visible in the background.",
+        "text_instruction": "The athlete runs towards a padded mat and performs a jump onto it.",
+        "first_frame": "images/juzWdWRRO8w_000009_000019.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "athletics \u2013 throwing + launching",
+        "text_first_frame": "A focused archer stands on a tiled indoor archery range, holding a bow ready to shoot towards the distant target. Nearby, a spectator in a red USA Archery shirt observes the scene with red spectator chairs visible in the background.",
+        "text_instruction": "The archer launches the arrow towards the target.",
+        "first_frame": "images/YjZs28OHmXg_000000_000010.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "cooking",
+        "text_first_frame": "A young child in a black t-shirt stands beside a table. On the table are a jar of peanut butter and a slice of bread.",
+        "text_instruction": "The child spreads peanut butter from the jar onto a slice of bread.",
+        "first_frame": "images/y61WAeRhzls_000015_000025.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "eating + drinking",
+        "text_first_frame": "A group of women are gathered in a room with one woman clapping and others excitedly drinking. A table with drinks and snacks is visible in the room.",
+        "text_instruction": "A group of women energetically eat and drink together in a room.",
+        "first_frame": "images/Yo2mFkL2l4c_000000_000010.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "athletics \u2013 jumping",
+        "text_first_frame": "A male athlete in a red uniform is seen running toward the pole vault setup in an indoor track and field arena. Spectators are lined up along the side, observing the event.",
+        "text_instruction": "The athlete performs a pole vault jump over the bar.",
+        "first_frame": "images/k-y525A8mRw_000008_000018.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "dancing",
+        "text_first_frame": "In a large indoor space with high ceilings, a group of people stand closely together in lines. The room is dimly lit, and the participants are wearing casual workout attire, preparing to perform synchronized dancing.",
+        "text_instruction": "The group of people performs synchronized dancing in a large indoor space.",
+        "first_frame": "images/a_XYbrkx8To_000038_000048.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "dancing",
+        "text_first_frame": "Two people are captured in the first frame, performing in front of a brightly lit urban backdrop with a prominent 'hiphol' sign. The scene is lively with the duo positioned in the foreground amidst a crowd in the background.",
+        "text_instruction": "The two people perform synchronized dancing in front of a brightly lit urban setting.",
+        "first_frame": "images/JuFxHyLJdXo_000305_000315.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "athletics \u2013 jumping",
+        "text_first_frame": "An athlete stands on a track and field runway holding a long pole, ready to begin a pole vault attempt. In the distance, a high bar is positioned above padded landing mats under a clear blue sky.",
+        "text_instruction": "The athlete uses a pole to vault over a high bar during a track and field event.",
+        "first_frame": "images/LkmV7sH8NsE_000015_000025.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "body motions",
+        "text_first_frame": "A child is sitting on a couch in front of closed blinds, wearing a striped shirt and holding a plastic pouch. The dimly lit room creates a soft, cozy atmosphere.",
+        "text_instruction": "The child leans forward and lifts himself onto his knees.",
+        "first_frame": "images/D8lZzyw5WQ4_000000_000010.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "touching person",
+        "text_first_frame": "A person is sitting on the ground holding a small electronic device in their hands. Another person is nearby, identifiable by their blue gloved hand visible in the frame.",
+        "text_instruction": "A person playfully touches another person's face with a blue gloved hand.",
+        "first_frame": "images/fhRGb0nm9Tw_000001_000011.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "interacting with animals",
+        "text_first_frame": "A small dog with fluffy brown and white fur is sitting calmly on a grooming table. A person's hand is gently holding the dog's chin while another hand holds a pair of scissors near the dog's fur.",
+        "text_instruction": "The person gently trims the dog's fur with scissors.",
+        "first_frame": "images/da_MDcqAV7M_000004_000014.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "touching person",
+        "text_first_frame": "The image shows a person massaging another individual's foot, focusing on the sole and toes. The setting appears to be a clinical or studio environment, with soft lighting illuminating the feet.",
+        "text_instruction": "The person massages another person's foot.",
+        "first_frame": "images/Ot5JtyflRRw_000122_000132.jpg"
+    },
+    {
+        "domain": "human",
+        "subdomain": "athletics \u2013 jumping",
+        "text_first_frame": "An athlete wearing a white shirt and black shorts stands on a paved runway, preparing for a run. The background shows a field with buildings and utility poles under a clear blue sky.",
+        "text_instruction": "The athlete performs a running jump into a sandpit.",
+        "first_frame": "images/b91QyJ0TRAI_000000_000010.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "A loaded truck is positioned in a large indoor disposal area, tilted back to unload waste materials. Various cardboard boxes, plastic bags, and other garbage are spilling out of the truck, with a large pile already on the ground next to the truck.",
+        "text_instruction": "The truck dumps a load of waste materials into the designated disposal area.",
+        "first_frame": "images/hWD7FzqrZ2g_28_0to177.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "A large black and silver coffee roasting machine is displayed, with a prominent spout at the top and several control dials on its front. Below the machine, there is a mesh tray ready to catch roasted coffee beans.",
+        "text_instruction": "\"The machine's spout releases roasted coffee beans into the tray below.\"",
+        "first_frame": "images/7y1v_92UyeQ_6_0to152.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Automotive and engine assembly",
+        "text_first_frame": "A technician in a black and gray outfit is inspecting the front fender panel of a gray car with a visible headlight. The car is positioned against a brick wall backdrop in a garage setting.",
+        "text_instruction": "The technician adjusts the front fender panel of the car.",
+        "first_frame": "images/X0cA6KXNDok_54_22to225.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "A worker with gloves arranges yellow apples on a conveyor belt in a food processing facility. Another individual in the background is also sorting through the apples near a different part of the belt.",
+        "text_instruction": "The worker sorts and arranges yellow apples on a conveyor belt in a food processing facility.",
+        "first_frame": "images/AFbzUOnKyBU_34_0to141.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "A person stands in an industrial environment holding a handheld tool and another component. The background features various industrial machines, cables, and a trash can.",
+        "text_instruction": "\"The worker operates a handheld tool in an industrial environment.\"",
+        "first_frame": "images/0InwKlk8KGw_19_83to238.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Metalworking and manufacturing processes",
+        "text_first_frame": "A technician in a gray uniform with red emblems on the sleeves is leaning over a metalworking machine. The technician holds a yellow-handled mallet close to the machine's component.",
+        "text_instruction": "The technician uses a mallet to adjust a component on the metalworking machine.",
+        "first_frame": "images/F8X-Z6Sti1A_118_0to130.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Aerospace and large industrial systems",
+        "text_first_frame": "A worker in a white hard hat and orange safety vest stands on a paved area directing the movement of a large industrial tank. The tank is mounted on a multi-wheeled transport vehicle within an aerospace facility with various buildings and structures in the background.",
+        "text_instruction": "A worker directs the movement of a large industrial tank through an aerospace facility.",
+        "first_frame": "images/NZz5C9Tqs2Y_93_83to186.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Automotive and engine assembly",
+        "text_first_frame": "A robotic arm positions a car engine below a car chassis on an assembly line. The car chassis is elevated and supported by an orange frame, while the engine is on a platform labeled 'Presso' with the robotic arm attached to it.",
+        "text_instruction": "The robotic arm positions the engine under the car chassis during assembly.",
+        "first_frame": "images/gHI00EwcCs8_40_0to172.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Aerospace and large industrial systems",
+        "text_first_frame": "The chimneys of an industrial plant release smoke as the sun sets in the background, casting a purple and orange hue over the scene. The plant structures are silhouetted against the vivid sky, with smoke visibly emitting from one of the chimneys.",
+        "text_instruction": "The chimneys of an industrial plant release smoke as the sun sets in the background.",
+        "first_frame": "images/pixabay_Alpine_Meadows_121849_000.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "A person stands in front of a CNC machine inside a facility, wearing a dark jacket with logos on the chest. The CNC machine is visible in the background with its control panel and work area partially lit.",
+        "text_instruction": "The CNC machine operates in the background as a person describes its functions.",
+        "first_frame": "images/DIQt--72k1E_34_0to136.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Automotive and engine assembly",
+        "text_first_frame": "A silver-blue Hyundai Kona is parked in an automotive assembly plant, with its rear lights illuminated. The environment includes large industrial lights and machinery in the background.",
+        "text_instruction": "\"The person inspects the rear lights of the parked car in the automotive assembly plant.\"",
+        "first_frame": "images/9j8MeHhjRPk_13_0to212.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Metalworking and manufacturing processes",
+        "text_first_frame": "A robotic arm is positioned over a manufacturing assembly line, preparing to move parts. A worker in a red shirt is standing next to the assembly line, performing an inspection or manual task.",
+        "text_instruction": "A robotic arm moves parts onto a manufacturing assembly line.",
+        "first_frame": "images/F3FUH9fVC_M_18_0to114.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Aerospace and large industrial systems",
+        "text_first_frame": "A camera view shows the interior of a large industrial tunnel system with parallel tracks running along the ground, surrounded by lined walls with vertical sections, extending into the distance. The tunnel is illuminated by dim, spaced lights along the right side, casting minimal reflections on the metallic surfaces.",
+        "text_instruction": "The camera moves rapidly through a large industrial tunnel system.",
+        "first_frame": "images/pixabay_Wisteria_Tunnels_45195_004.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "A person stands in front of a wooden wall with a brewing logo partially visible in the background. In front of them, a metal control unit with knobs, buttons, and a digital display is placed on a countertop along with a brewing pot and some tubing.",
+        "text_instruction": "The person adjusts settings on the brewing system control unit.",
+        "first_frame": "images/p6peZsbrGYY_35_0to264.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "A man is seen operating intricate machinery, adjusting several wires and components. The surroundings include large, metallic equipment with blue panels and a prominent button in view.",
+        "text_instruction": "The man operates machinery by adjusting wires and components.",
+        "first_frame": "images/Oq4TT-5Ka_k_20_0to108.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Metalworking and manufacturing processes",
+        "text_first_frame": "A worker in a blue helmet, wearing gloves and a mask, stands in front of a green electrical panel. Another worker in a red helmet is positioned to the right, observing the panel with a document attached to it.",
+        "text_instruction": "\"The worker in a blue helmet inspects a green electrical panel.\"",
+        "first_frame": "images/pixabay_Desert_Oasis_139026_001.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Aerospace and large industrial systems",
+        "text_first_frame": "The rocket is positioned upright at the aerospace facility launch pad, with the support structure visible in the background. Smoke and steam clouds are forming around the base of the rocket as the engines begin to ignite.",
+        "text_instruction": "The rocket begins its launch sequence at the aerospace facility.",
+        "first_frame": "images/pixabay_urban_green_spaces_videos_225_004.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Metalworking and manufacturing processes",
+        "text_first_frame": "A manufacturing facility features a metalworking machine in the background with an individual operating it. In the foreground, another person is standing and making hand gestures.",
+        "text_instruction": "The individual in the background operates a metalworking machine in the manufacturing facility.",
+        "first_frame": "images/EITEQLn8SUE_13_128to249.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Automotive and engine assembly",
+        "text_first_frame": "A worker in a red shirt stands beside a mechanical lift, with an engine assembly attached to the lift by a metal chain. The workstation is well-organized with various engine components and machinery visible in the background.",
+        "text_instruction": "The worker uses a mechanical lift to position an engine assembly.",
+        "first_frame": "images/F3FUH9fVC_M_305_25to134.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Metalworking and manufacturing processes",
+        "text_first_frame": "A person in a white lab coat is recording measurements on a clipboard in front of industrial equipment with several buttons and gauges. The scene includes control knobs and labeled indicators attached to the equipment panel.",
+        "text_instruction": "The person records measurements on a clipboard while monitoring industrial equipment.",
+        "first_frame": "images/RAFMIXPq9BE_8_0to136.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Metalworking and manufacturing processes",
+        "text_first_frame": "The blacksmith stands in a workshop, holding a heated metal blade with both hands. The surroundings include various blacksmithing tools and a dimly lit interior environment with wooden walls and metal structures.",
+        "text_instruction": "The blacksmith examines and adjusts a heated metal blade.",
+        "first_frame": "images/AHK4duRiSgk_16_0to225.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "A worker in a blue uniform walks down an aisle in an industrial facility. There are various pieces of machinery and pipes lining the walls, with clear signage and control panels visible.",
+        "text_instruction": "The worker inspects the machinery in an industrial facility.",
+        "first_frame": "images/Zez12WfaAYs_8_0to147.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "A stainless-steel food processing machine with an open compartment lid is on a table. A yellow-handled red spatula rests on a stack of white napkins nearby.",
+        "text_instruction": "\"The machine's lid is closed, sealing the food processing compartment.\"",
+        "first_frame": "images/fqFGPSSfqnw_32_0to145.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Metalworking and manufacturing processes",
+        "text_first_frame": "The first frame shows a person in a beige sweater standing on a manufacturing floor with various types of machinery and equipment in the background. There is a green object to the right, and a person in a red shirt is visible in the background working with the machinery.",
+        "text_instruction": "The person gestures towards the machinery on the manufacturing floor.",
+        "first_frame": "images/7T4LhXxaDyI_83_18to134.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "A worker wearing blue gloves and a blue coat is sorting white mushrooms on a table. Several blue trays filled with mushrooms are placed on the table in front of the worker.",
+        "text_instruction": "The worker is sorting mushrooms into blue trays.",
+        "first_frame": "images/6BkZistftCw_6_56to171.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "Two people stand in front of a yellow machinery control panel, with one person in a gray shirt pointing at the panel. An industrial environment with various machines and equipment is visible in the background under a ceiling with numerous lights.",
+        "text_instruction": "The operator inputs commands into the machinery control panel.",
+        "first_frame": "images/D_eA7DpivyM_7_30to191.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Aerospace and large industrial systems",
+        "text_first_frame": "Three large wind turbines stand in a vast industrial field with green patches and bushes. The sky is painted with shades of pink and purple, indicating either dawn or dusk.",
+        "text_instruction": "The wind turbine blades spin in a large industrial field.",
+        "first_frame": "images/pixabay_rural_landscapes_videos_133443_008.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "A machinist in a gray uniform stands in front of an industrial control panel with various buttons and a digital screen displaying data. The control panel has several red and yellow buttons, a rotary knob, and a numeric keypad.",
+        "text_instruction": "The machinist operates a control panel on industrial machinery.",
+        "first_frame": "images/2bRa6qm6wm4_2_0to126.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Metalworking and manufacturing processes",
+        "text_first_frame": "A heavy-duty metal anvil positioned on a workshop floor with gravel. Various metal rods and tools are scattered around the base of the anvil.",
+        "text_instruction": "The heavy-duty anvil rotates and reveals its structure in a metalworking workshop.",
+        "first_frame": "images/dX53Ifw7JXU_10_694to996.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Metalworking and manufacturing processes",
+        "text_first_frame": "A worker stands beside a milling machine table, holding a wrench. A vise labeled 'KURT' is positioned on the milling machine table, ready to be adjusted.",
+        "text_instruction": "\"The worker uses a wrench to tighten a vise on a milling machine table.\"",
+        "first_frame": "images/43wlD8WWsKk_14_53to179.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "A worker wearing a blue shirt and a blue and white cap stands next to a piece of machinery with exposed yellow wires in the background. The worker is holding a brass cylinder in their right hand near a slot in the machinery.",
+        "text_instruction": "\"The worker inserts a brass cylinder into the machinery slot.\"",
+        "first_frame": "images/KqNI1VDbRhw_2_299to533.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Metalworking and manufacturing processes",
+        "text_first_frame": "A person wearing ear protection is positioned in a workshop, holding a heated metal piece with a pair of tongs. The metal piece is placed on the base of a press machine.",
+        "text_instruction": "\"The press machine forges the heated metal piece.\"",
+        "first_frame": "images/iu-rJcEjSow_33_90to279.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "The first frame shows a food and beverage industrial facility with machinery, pipes, and a person standing on a metal stairway. Large metallic pipes and complex industrial equipment are prominently visible in the foreground and background.",
+        "text_instruction": "The person inspects machinery in a food and beverage industrial facility.",
+        "first_frame": "images/vFQ5Jde3DZM_85_0to186.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "Multiple robotic arms are positioned around a metal framework, preparing to assemble it. Overhead lights illuminate the machinery and work area, adding a blue hue to the scene.",
+        "text_instruction": "The robotic arms are operating machinery to assemble a metal framework.",
+        "first_frame": "images/AYcHbDVOnWQ_13_69to196.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Automotive and engine assembly",
+        "text_first_frame": "A green car body is suspended on a robotic assembly line in an automotive factory. The assembly line includes various mechanical apparatus, with the car's trunk and doors open, and a workstation is visible to the right of the car body.",
+        "text_instruction": "The green car body is suspended on a robotic assembly line for automotive and engine assembly.",
+        "first_frame": "images/7T4LhXxaDyI_42_0to107.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "A large industrial mixer with white body and metal whisk attachment is blending dough in a large metal bowl. The dough is thick and creamy, with some of it sticking to the sides of the bowl.",
+        "text_instruction": "The industrial mixer blends dough in a large metal bowl.",
+        "first_frame": "images/KDo2HXlp2Uk_9_74to207.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Automotive and engine assembly",
+        "text_first_frame": "The technician stands in a large industrial room with a control panel on his left and several cabinets with computer equipment on the right. There is a large open garage door in the background and various machines and pipes on the walls.",
+        "text_instruction": "The technician operates the engine assembly control panel.",
+        "first_frame": "images/DSCvEgDu5sU_17_0to123.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "A robotic arm is positioned over a conveyor belt loaded with multiple packs of bottled water. The scene is set in an industrial setting, and the robotic arm appears ready to move the packs of bottles.",
+        "text_instruction": "The robotic arm moves bottles of water onto the conveyor belt.",
+        "first_frame": "images/OtEoRuL5CMk_22_0to104.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "A worker in a blue coat stands in the middle of a food and beverage processing plant, with machinery and stacked crates visible in the background. The facility has a well-lit, industrial interior with stainless steel equipment and tiled floors.",
+        "text_instruction": "The worker in the food and beverage processing plant gestures while explaining the industrial processes.",
+        "first_frame": "images/1m6h59wI_yI_33_35to192.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "Several clear plastic bottles are aligned vertically in a rotary filling machine, with water being dispensed into them in a factory setting. The machine has multiple nozzles and mechanical components visible at the top and bottom.",
+        "text_instruction": "Water is dispensed into plastic bottles on a rotary filling machine.",
+        "first_frame": "images/WgrxxdVBEGc_50_64to186.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "A person stands next to an industrial control panel with various buttons and a screen displaying data. In the background, there is industrial machinery partially visible.",
+        "text_instruction": "The operator demonstrates the control panel of industrial machinery.",
+        "first_frame": "images/dERo6Hg-Izo_0_0to253.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "A drone captures an aerial view of a food and beverage processing plant surrounded by agricultural fields in a rural area. The plant consists of multiple large cylindrical silos and warehouses, with roads and greenery around it.",
+        "text_instruction": "The drone flies over a food and beverage processing plant located in a rural agricultural area.",
+        "first_frame": "images/3-80NeextHs_76_0to245.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Aerospace and large industrial systems",
+        "text_first_frame": "The first frame shows a large expanse of farmland with multiple wind turbines positioned throughout the landscape. The sky is clear with a few scattered clouds, and shadows of the wind turbines stretch across the fields.",
+        "text_instruction": "The wind turbines rotate steadily in the large industrial system.",
+        "first_frame": "images/pixabay_rural_landscapes_videos_86618_007.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Automotive and engine assembly",
+        "text_first_frame": "A red car is positioned in a garage next to a hydraulic lift with a man standing nearby. Various other cars and automotive equipment can be seen in the background.",
+        "text_instruction": "\"The car is being lifted on a hydraulic lift for engine assembly.\"",
+        "first_frame": "images/pus075nqczo_17_0to196.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Automotive and engine assembly",
+        "text_first_frame": "A partially assembled car body is suspended by an automated system above a manufacturing station. The engine and chassis are positioned below the car body, ready for assembly.",
+        "text_instruction": "\"The automated system assembles the car body onto the engine and chassis.\"",
+        "first_frame": "images/H7s5jCVdXc0_8_0to190.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Food and beverage industrial processes",
+        "text_first_frame": "A worker wearing green gloves and a cap stands next to a large stainless steel tank with an open lid. Another worker holding a white bucket is positioned near the tank, ready to pour ingredients into it.",
+        "text_instruction": "A worker opens the lid of a large stainless steel tank and pours in a white bucket of ingredients.",
+        "first_frame": "images/Cj5OoWr0k0E_92_0to279.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Metalworking and manufacturing processes",
+        "text_first_frame": "A person stands in front of a vertical milling machine, holding a metal component in their hands. The workspace is cluttered with various tools and equipment visible in the background, and the machine's spindle is positioned close to the component.",
+        "text_instruction": "The operator uses a vertical mill to precisely machine a metal component.",
+        "first_frame": "images/MPqj6WaTFOE_25_0to163.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "An individual in a black jacket is in front of an industrial control panel, with a large screen displaying various data and settings. The control panel has numerous buttons and knobs, and machinery with the label 'VF-2SSYT' is visible in the background.",
+        "text_instruction": "The operator adjusts the settings on the control panel of the industrial machinery.",
+        "first_frame": "images/qAEEMi3V0Ro_12_0to106.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Machinery and equipment operation",
+        "text_first_frame": "An excavator is positioned next to a pit on a construction site with its arm extended towards a large rock. Various construction materials such as concrete blocks, pipes, and sandbags are scattered around the site with some workers visible in the background.",
+        "text_instruction": "The excavator places a large rock into a pit.",
+        "first_frame": "images/pexels_landscape_landscape_5513061_007.jpg"
+    },
+    {
+        "domain": "industrial",
+        "subdomain": "Automotive and engine assembly",
+        "text_first_frame": "A large automated machine with a red container is positioned beside a red vehicle, presumably for automotive engine assembly. The machinery is in a stationary position with a partial tilt, with green pasture and some buildings in the background.",
+        "text_instruction": "\"The automated machinery lifts and tilts a large red container for automotive engine assembly.\"",
+        "first_frame": "images/b57PQmwTD74_41_0to136.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "The initial frame shows a pebble shoreline with gentle waves lapping against it, while mountainous scenery is visible in the background under a partly cloudy sky. To the right, there are trees with some extending branches over the water.",
+        "text_instruction": "Waves gently lap against a pebble shoreline with mountainous scenery in the background.",
+        "first_frame": "images/LJoI7_lEqW4_25_163to310.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "The image shows waves gently rolling onto a vast sandy beach under a clear blue sky. The shoreline extends into the distance, bordered by sparse greenery on one side.",
+        "text_instruction": "\"Waves gently roll onto the sandy beach.\"",
+        "first_frame": "images/3llmNHfY3zo_28_100to277.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "A yellow and black patterned fish is hovering above a substrate that has small scattered particles. Near the fish's mouth, there is a small object on the substrate.",
+        "text_instruction": "The fish moves forward and eats a small object from the substrate.",
+        "first_frame": "images/R8t1lJgGNA4_3_0to231.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "A light pink flower is surrounded by lush green leaves in a forest setting, with trees and dense foliage visible in the background. The scene is filled with vibrant greenery and natural forest elements.",
+        "text_instruction": "The flower slowly opens its petals while surrounded by lush greenery in the forest.",
+        "first_frame": "images/E3bhb0zNR-g_12_0to148.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "Water cascades over the edge of a rock formation, forming a waterfall that flows downwards. The backdrop consists of autumn foliage with trees adorned in shades of yellow, orange, and green.",
+        "text_instruction": "Water cascades over the edge of a rock formation, creating a waterfall amidst a backdrop of autumn foliage.",
+        "first_frame": "images/A-6R3cdp3Bo_26_0to150.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "Several penguins are seen on a rocky shore with one penguin at the edge of the shore preparing to enter the clear, turquoise water. The rocky terrain is covered in patches of green algae and wet areas from the splashing waves.",
+        "text_instruction": "The penguin enters the water from the rocky shore.",
+        "first_frame": "images/TeaqB2LM0JE_13_0to264.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "A monkey is holding a piece of fruit with both hands in an outdoor environment. The background is filled with lush green foliage, creating a natural setting.",
+        "text_instruction": "The monkey is eating a piece of fruit.",
+        "first_frame": "images/7ZgaBDdTzaE_38_23to150.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "A lion is seen partially hidden behind branches, with its head peering through the foliage. It closely observes its surroundings with intense focus, framed by the trunk and branches of a tree.",
+        "text_instruction": "The lion observes its surroundings while partially hidden behind branches.",
+        "first_frame": "images/R1BjPRI5ddA_226_62to171.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "The first frame shows a close-up view of a large green leaf in the foreground, partially covering dense green foliage in the background. The background consists of various shades of green, indicating a lush and vibrant natural environment.",
+        "text_instruction": "The leaf moves to reveal dense green foliage.",
+        "first_frame": "images/7D51VaZqlmE_2_32to157.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "A herd of antelopes gathers in the savannah, standing on alert with ears perked and eyes scanning the surroundings. The scene is set during dusk, with the golden light casting a warm glow over the animals and the grassy landscape.",
+        "text_instruction": "\"The herd of antelopes stands alert in the savannah.\"",
+        "first_frame": "images/HywDNAgqDzw_20_0to189.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "A vibrant butterfly with black, white, and orange wings is perched on a blooming purple flower. The butterfly positions its proboscis into the center of the flower, ready to feed on its nectar.",
+        "text_instruction": "\"The butterfly feeds on the nectar of the purple flower.\"",
+        "first_frame": "images/ROvaAn2bX04_54_79to314.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "A panoramic view of a mountainous landscape is visible. Numerous clouds are scattered across the bright blue sky above the snow-capped peaks.",
+        "text_instruction": "The clouds move across the mountainous landscape.",
+        "first_frame": "images/S-Plh-no40c_2_0to199.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "A picturesque seaside scene featuring palm trees with their fronds partially in view swaying gently. The blue sea extends into the horizon, with rocks scattered near the shore and some vegetation in the foreground.",
+        "text_instruction": "The palm trees sway gently in the tropical breeze by the seaside.",
+        "first_frame": "images/2L1qaMc39j0_14_0to136.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "An orange and white feathered bird stands amidst tall green grass with a gray rocky background. Other birds are visible flying in the background.",
+        "text_instruction": "A bird with orange and white feathers looks around while other birds fly in the background.",
+        "first_frame": "images/LcrRaQfh7nE_51_34to141.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "A serene view of a waterfall cascading down a rocky slope into a clear pool below, surrounded by lush green vegetation and trees. The water flows over the rocks creating white foamy splashes as it descends into the pool.",
+        "text_instruction": "The water cascades down a rocky slope into a pool below.",
+        "first_frame": "images/As5kMHvrsWQ_31_0to291.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "A monkey is positioned in profile against a blurred background. Its mouth is open slightly, and only its head and neck are visible.",
+        "text_instruction": "The monkey opens and closes its mouth repeatedly.",
+        "first_frame": "images/1O89VdL2oaA_54_65to287.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "An aerial view showcases a waterfall cascading into a serene pool surrounded by greenery. The scene is set amidst a rocky terrain with patches of lush vegetation around the water body.",
+        "text_instruction": "\"The waterfall cascades into a serene pool surrounded by greenery.\"",
+        "first_frame": "images/KueAcijsxuw_66_93to269.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "Two hummingbirds are perched on a thin, curved branch against a blurred green background. Both birds are facing opposite directions, one looking to the left and the other to the right.",
+        "text_instruction": "A hummingbird flies away from the branch as another hummingbird approaches.",
+        "first_frame": "images/41mRhsADthY_115_0to131.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "A large brown bear is standing on a lush green field. The bear has a mouthful of grass and appears to be in the process of chewing it.",
+        "text_instruction": "The bear chews on grass.",
+        "first_frame": "images/TEbp8iB8N6Y_260_105to275.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "A large bear with thick fur is seen bending down over the forest floor, surrounded by dense evergreen trees. The bear's head is close to the ground, seemingly foraging for food.",
+        "text_instruction": "The bear forages the forest floor.",
+        "first_frame": "images/T-xx7tYUGfM_143_271to439.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "A pine tree stands partially covered in snow in front of rocky cliffs. The landscape is painted with fresh snowfall under a sky filled with scattered clouds.",
+        "text_instruction": "Snow gradually covers a pine tree as the camera pans across a snowy landscape with rocky cliffs.",
+        "first_frame": "images/SwIB-QlxNCo_65_0to103.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "A lush, tropical scene featuring a rocky cliff with a cascading waterfall. Surrounding vegetation includes a prominent plant with large, spiky leaves and various other green plants and foliage.",
+        "text_instruction": "The waterfall cascades down a rocky cliff surrounded by lush vegetation.",
+        "first_frame": "images/2TdhmjbQS2c_14_0to104.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "An aerial view of a sandy beach with waves gently washing onto the shore. The beach is bordered by lush green vegetation and some scattered rocks on both the sand and in the water.",
+        "text_instruction": "The waves gently wash onto the sandy beach.",
+        "first_frame": "images/ENldzi7MEtY_3_16to161.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "The image shows a rocky shore with smoothed, uneven stones extending towards the ocean. In the background, the ocean water is clear and calm, with white waves visible near the shore under a blue sky with scattered clouds.",
+        "text_instruction": "A wave crashes against the rocky shore.",
+        "first_frame": "images/Uz_-INGzbdU_54_0to117.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "A large sunflower with bright yellow petals stands tall under a clear, blue sky dotted with white clouds. To the left of the large sunflower is a smaller sunflower, also with yellow petals and a dark center.",
+        "text_instruction": "A bee flies closer to the large sunflower.",
+        "first_frame": "images/Dj4fn7ypSRU_49_0to179.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "A waterfall cascades down a rocky cliff surrounded by lush green trees. The scene captures the water flowing down multiple levels of rock formations, creating small pools and streams at the base.",
+        "text_instruction": "The waterfall cascades down the rocky cliff.",
+        "first_frame": "images/1r5-7ee8NKM_52_0to267.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "A bee is perched on a cluster of white flowers amidst green foliage. The bee is positioned close to several blooming white flowers, making contact with them.",
+        "text_instruction": "The bee gathers nectar from the cluster of white flowers.",
+        "first_frame": "images/H7YoHPrUvII_17_0to132.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "The frame shows a small natural waterfall in a stream with water flowing over it. In the foreground, there are lush green plants and white flowers, while the background features more greenery along the stream banks.",
+        "text_instruction": "Water flows over a small natural waterfall in a stream.",
+        "first_frame": "images/92rk4K8AHMM_60_0to163.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "The scene captures a rugged shoreline with rocky cliffs extending into the ocean. Waves crash energetically against the rocks, sending up sprays of white foam under a clear blue sky.",
+        "text_instruction": "The waves crash against the rocky cliffs on the shoreline.",
+        "first_frame": "images/8Nnd3iksYtc_58_200to368.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Weather and Natural Phenomena",
+        "text_first_frame": "A sun is setting behind a mountain range, casting a golden hue over the scene. The foreground is filled with glittering snow, and silhouette of trees can be seen against the colorful sky.",
+        "text_instruction": "The sun sets behind a mountain range with glowing snow in the foreground.",
+        "first_frame": "images/7X2Z64IvM4o_48_287to535.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "A reindeer stands in a snowy landscape with snow covering its antlers. Its face is partially covered in snow, and it looks to the left side of the frame.",
+        "text_instruction": "The reindeer shakes its head, dislodging snow from its antlers.",
+        "first_frame": "images/JwcUVGa384E_22_0to112.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "The dark blue sea with visible waves stretches towards rocky mountains in the distance under a clear, blue sky. The landscape includes multiple peaks of varying heights, with the sea displaying dynamic wave patterns close to the shore.",
+        "text_instruction": "The waves on the dark blue sea move towards the rocky mountains in the distance.",
+        "first_frame": "images/QcaKXHMruz4_61_0to154.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "A serene stream flows gently over variously sized rocks and pebbles. On either side of the stream, there is a mix of green vegetation and scattered patches of soil.",
+        "text_instruction": "The stream gently flows over rocks and pebbles.",
+        "first_frame": "images/QWB2cemZhyI_54_0to111.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "A desert landscape is seen under a bright sky adorned with scattered clouds. In the foreground, a few cacti and shrubs can be seen, with a mountain standing majestically in the background.",
+        "text_instruction": "Clouds move across the bright sky over a desert landscape.",
+        "first_frame": "images/SddeZhPf7us_19_0to128.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Animal Behavior",
+        "text_first_frame": "A lone elephant stands in a vast grassland under a bright blue sky dotted with scattered clouds. The background includes some sparse dead trees and a flat landscape stretching into the distance.",
+        "text_instruction": "The elephant walks slowly through the grassland.",
+        "first_frame": "images/PVuodCfYpX4_3_0to111.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "A large green leaf is prominently visible in the foreground, with smaller leaves and stems in the background. The setting is lush and verdant, indicating a healthy, thriving plant.",
+        "text_instruction": "A leaf gently sways in the breeze.",
+        "first_frame": "images/J7y1iLP1rJ8_9_0to173.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "A powerful waterfall flows over a snow-covered cliff into a river. The surrounding landscape is covered in snow under a clear blue sky.",
+        "text_instruction": "A powerful waterfall flows over a snow-covered cliff into a river.",
+        "first_frame": "images/3DcCHGcpO3s_34_0to154.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "A butterfly rests on a pink flower, which has an orange center. The flower is situated among tall, green foliage with more pink flowers visible in the background.",
+        "text_instruction": "The butterfly flutters its wings while perched on the pink flower.",
+        "first_frame": "images/INLmlHDtf98_33_0to114.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "A wide view of a beach with gentle waves meeting the shore is bordered by a line of high-rise buildings with green mountains in the background. The beach is dotted with a few scattered individuals and objects, with the ocean stretching into the horizon.",
+        "text_instruction": "The beach transforms into a vast waterfall cascading into the ocean.",
+        "first_frame": "images/9E2TjdcLep8_53_0to111.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "The first frame of the video shows a vibrant garden with numerous green plants and white flowers with orange centers. The focus is on a cluster of white flowers with detailed petals and central orange disks, surrounded by unopened green buds.",
+        "text_instruction": "A bee lands and pollinates a white flower in a vibrant garden.",
+        "first_frame": "images/DNLRhxNCRSQ_2_0to211.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "A cluster of red berries is seen attached to a branch with green leaves. The background is a blurred mix of green and yellow, hinting at a natural, outdoor setting.",
+        "text_instruction": "The red berries gently sway on the branch.",
+        "first_frame": "images/KLEhwQWKf-4_6_0to192.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "A vibrant orange and black butterfly with spotted wings is perched on a green leaf. The surroundings are filled with lush green foliage, creating a serene natural setting.",
+        "text_instruction": "The butterfly flaps its wings while perched on a leaf.",
+        "first_frame": "images/JMhXXr6gddc_0_0to261.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "The serene coastal landscape showcases a rocky shoreline with waves gently crashing against the rocks. Tall grass in the foreground frames the view of the clear blue ocean and distant mountainous terrain bathed in soft light.",
+        "text_instruction": "\"Waves gently crash against the rocks on a serene coastal landscape.\"",
+        "first_frame": "images/3zLh-JGM9t4_44_0to105.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "A grasshopper is sitting on the ground surrounded by dense green vegetation. The scene includes various plants and grass stemming from a slightly damp, earthy surface.",
+        "text_instruction": "\"The grasshopper jumps from the ground into the air amidst the surrounding vegetation.\"",
+        "first_frame": "images/033zYstULZI_259_64to178.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "A bee hovers near a vibrant yellow flower, with green stems and leaves in the background. The yellow flower is in full bloom and stands out against the blurred greenery.",
+        "text_instruction": "The bee hovers around and lands on the yellow flower.",
+        "first_frame": "images/D6luBEJfi3s_2_0to147.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "A scenic mountainous landscape with snow-covered cliffs and rocky outcrops. The sky is clear with a few clouds, and the distant mountains form the backdrop with snow-covered trees visible at the base.",
+        "text_instruction": "\"Snow melts and slides down the mountain cliff in the scenic landscape.\"",
+        "first_frame": "images/PNs68O5JSKg_160_0to156.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "The first frame shows ocean waves crashing against a rocky shore lined with numerous swaying palm trees, situated on a lush, tree-covered hill. The scene also includes a clear blue sky and a distant view of additional greenery and buildings.",
+        "text_instruction": "\"The ocean waves crash against the rocky shore lined with palm trees.\"",
+        "first_frame": "images/3dgoTjaeC8w_102_0to209.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Water Bodies",
+        "text_first_frame": "The waterfall cascades down the rocky cliffs from both sides, surrounded by lush green foliage, into the river below. The mist created by the waterfall adds a hazy effect to the scene under a clear sky with scattered clouds.",
+        "text_instruction": "The waterfall cascades down the rocky cliffs into the river below.",
+        "first_frame": "images/WmVLcj-XKnM_1_0to105.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Plant Life and Vegetation",
+        "text_first_frame": "A group of tall palm trees are standing amidst lush greenery under a partly cloudy sky. The background features a mixture of green hills and a few white structures partially visible through the foliage.",
+        "text_instruction": "The palm trees sway in the wind.",
+        "first_frame": "images/SN_JuHgEGwU_19_116to222.jpg"
+    },
+    {
+        "domain": "natural",
+        "subdomain": "Landscape and Scenery",
+        "text_first_frame": "A mountain stream with clear water flows through a lush green valley filled with rocks and grass. Towering peaks in the background create a dramatic and scenic landscape.",
+        "text_instruction": "A mountain stream flows through a lush green valley with towering peaks in the background.",
+        "first_frame": "images/Hwoo8XGk4M0_1_0to208.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "place",
+        "text_first_frame": "A robotic arm hovers over a wooden table with a carrot and a metal bowl placed on it. The metal bowl sits on a dark mat, while a small teal brush lies nearby.",
+        "text_instruction": "The robotic arm places the carrot into the metal bowl.",
+        "first_frame": "images/bridge_2146.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "pick",
+        "text_first_frame": "A robotic arm is positioned above a surface with a green object nearby. A metal bowl and a red utensil sit on a purple cloth on the wooden surface.",
+        "text_instruction": "The robotic arm picks up the green object.",
+        "first_frame": "images/bridge_1476.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "turn",
+        "text_first_frame": "A robotic arm is positioned near a yellow toy knife, surrounded by various colorful toy vegetables and a blue cup on a mock kitchen counter. An arrangement of a green chili, orange carrot, and other toy vegetables can be seen in the background.",
+        "text_instruction": "The robotic arm turns a yellow toy knife.",
+        "first_frame": "images/bridge_432.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "close",
+        "text_first_frame": "A robotic arm is positioned near a microwave door, which is open above a kitchen counter. A yellow bell pepper and an orange are placed on the countertop, along with a stovetop and a sink in the kitchen setup.",
+        "text_instruction": "The robotics arm closes the microwave door in the kitchen setup.",
+        "first_frame": "images/bridge_1969.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "place",
+        "text_first_frame": "A desk is cluttered with various items including a potted plant, a bottle, and a pen holder filled with colorful pens. A hand reaches towards the holder to pick up a pen.",
+        "text_instruction": "The hand places the pen on the desk.",
+        "first_frame": "images/robot_vqa_2491.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "slide",
+        "text_first_frame": "A robotic arm hovers over a cork surface while holding a yellow block. A white plastic container is positioned nearby on the cork surface.",
+        "text_instruction": "The robotic arm slides a yellow block across a cork surface.",
+        "first_frame": "images/taco_play_261.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "open",
+        "text_first_frame": "A large cardboard box with recycling symbols is placed on top of a kitchen stove, featuring dials and a metallic handle. A robotic arm hovers above the box, poised to initiate an action.",
+        "text_instruction": "The robotic arm opens the cardboard box.",
+        "first_frame": "images/bridge_3357.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "sweep",
+        "text_first_frame": "A robotic arm is positioned above a small block on a wooden table. Nearby, a white container is placed on the table surface.",
+        "text_instruction": "The robotic arm sweeps a small block across the table.",
+        "first_frame": "images/taco_play_16.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "place",
+        "text_first_frame": "A robotic arm is positioned above a wooden countertop with a metal bowl to the right side. A red utensil lies horizontally on the counter near the edge, with a green cloth and small plush toy nearby.",
+        "text_instruction": "The robotic arm places the red utensil next to the bowl.",
+        "first_frame": "images/bridge_1037.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "pick",
+        "text_first_frame": "The scene depicts a robotic arm positioned over a blue bowl that contains cookies on a wooden table. A large, blue container and a small oven are visible around the robotic arm.",
+        "text_instruction": "The robotic arm picks a cookie from the blue bowl.",
+        "first_frame": "images/jaco_play_83.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "place",
+        "text_first_frame": "A metal pot is positioned on a wooden surface next to a folded yellow cloth. Nearby, a green-handled spatula and a cob of corn are placed on the same surface.",
+        "text_instruction": "The robotic arm places a pot on the yellow cloth.",
+        "first_frame": "images/bridge_2873.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "pick",
+        "text_first_frame": "A robotic arm is positioned above an open toolbox, which contains a variety of colorful tools. Among the tools is a prominent purple tool that is surrounded by other wrenches and screwdrivers.",
+        "text_instruction": "The robotic arm picks up the purple tool from the toolbox.",
+        "first_frame": "images/bridge_1341.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "slide",
+        "text_first_frame": "A robotic arm is positioned over a surface, holding a small red object with its gripper. To the left side, there is a box with several colored lids, and on the right, a white tray is visible.",
+        "text_instruction": "The robotic arm slides a red object along the surface.",
+        "first_frame": "images/taco_play_69.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "turn",
+        "text_first_frame": "A robotic arm is positioned above a kitchen sink, which contains a metal pot, a green sponge, and a red object. The kitchen counter has stove burners with pots, and various objects are placed around the sink.",
+        "text_instruction": "The robotic arm turns above the kitchen sink.",
+        "first_frame": "images/bridge_3099.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "move",
+        "text_first_frame": "A robotic arm is positioned above a brown tray set on a speckled surface. Three colorful objects are visible, mounted on a post nearby.",
+        "text_instruction": "The robotic arm moves horizontally over the tray.",
+        "first_frame": "images/taco_play_90.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "sweep",
+        "text_first_frame": "A robotic arm is positioned above a surface near a red object. A white container is placed nearby, ready to receive the object.",
+        "text_instruction": "The robotic arm sweeps the red object into the white container.",
+        "first_frame": "images/taco_play_258.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "sweep",
+        "text_first_frame": "A robotic arm is positioned over a wooden surface, holding a green cloth at its end. The background features a blue backdrop and some black draped materials.",
+        "text_instruction": "The robotic arm sweeps a green cloth across the wooden surface.",
+        "first_frame": "images/berkeley_autolab_ur5_52.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "turn",
+        "text_first_frame": "A robotic arm with a metallic grip is poised above a countertop, aligned over assorted plastic fruits and vegetables including a banana, corn, carrot, eggplant, and red bell pepper. Nearby, a blue cup and a cream-colored plate are placed on a light wooden surface with a backsplash of tile.",
+        "text_instruction": "The robotic arm turns while hovering over assorted plastic fruits and vegetables.",
+        "first_frame": "images/bridge_3217.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "slide",
+        "text_first_frame": "A robotic arm hovers above a wooden countertop, with a metal can, a metallic pot, a yellow cloth, and two utensils with colored handles nearby. The scene is set in a kitchen environment, showcasing these objects clearly arranged on the surface.",
+        "text_instruction": "The robotic arm slides a metal can toward the pot.",
+        "first_frame": "images/bridge_3251.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "pick",
+        "text_first_frame": "A wooden table with a black bowl containing a rectangular object with a yellow hue is in the center. A robotic arm positioned nearby is poised to interact with the items on the table.",
+        "text_instruction": "The robotic arm picks up the rectangular object from the black bowl.",
+        "first_frame": "images/jaco_play_24.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "sweep",
+        "text_first_frame": "A robotic arm is positioned over a neatly folded green cloth on a wooden table. The arm is equipped with cables and a mechanical gripper, suggesting readiness for an action.",
+        "text_instruction": "The robotic arm sweeps the green cloth across the wooden table.",
+        "first_frame": "images/berkeley_autolab_ur5_45.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "move",
+        "text_first_frame": "A metal robotic arm is suspended over a wooden table, positioned near a rubber chicken. Below and slightly to the left of the arm is a metal bowl on a dark mat, with a red and silver scoop lying nearby.",
+        "text_instruction": "The robotic arm moves the rubber chicken into the metal bowl.",
+        "first_frame": "images/bridge_1578.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "put",
+        "text_first_frame": "A white robotic arm is positioned next to a white tray, holding a small yellow object near a beige surface. Several colored cylindrical objects are visible next to a labeled cardboard box in the background.",
+        "text_instruction": "The robotic arm puts a small yellow object into a tray.",
+        "first_frame": "images/taco_play_63.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "close",
+        "text_first_frame": "A robotic arm is positioned next to an open microwave door, which has a digital timer reading 01:30. Nearby is a play kitchen with a plastic eggplant on a shelf and a piece of toy sushi in the microwave.",
+        "text_instruction": "The robotic arm closes the microwave door.",
+        "first_frame": "images/bridge_3091.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "take",
+        "text_first_frame": "A robotic arm hovers over a pink bowl filled with cookies on a wooden table. A gray bowl is placed nearby, waiting to receive the cookies.",
+        "text_instruction": "The robotic arm takes cookies from the pink bowl and places them into the gray bowl.",
+        "first_frame": "images/berkeley_autolab_ur5_84.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "move",
+        "text_first_frame": "A robotic arm hovers above a wooden table. On the table are a blue cloth, a spatula, a metal pan, and a corn model.",
+        "text_instruction": "The robotic arm moves the spatula from the blue cloth to the edge of the table.",
+        "first_frame": "images/bridge_1706.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "move",
+        "text_first_frame": "A robotic arm is positioned above a wooden table, which holds a silver pan, an orange cloth, a green-handled spatula, and a white and red brush. The pan is situated towards the right edge of the table, ready to be moved.",
+        "text_instruction": "The robotic arm moves the pan from the table to the corner.",
+        "first_frame": "images/bridge_3269.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "take",
+        "text_first_frame": "A robotic arm is positioned above a wooden platform with a small, orange and white object inside an amber-colored bowl. Nearby on the platform, there are a green and a red object.",
+        "text_instruction": "The robotic arm takes an orange and white object from the bowl.",
+        "first_frame": "images/bridge_2807.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "open",
+        "text_first_frame": "A robotic arm is positioned above an open cardboard box, ready to interact with its contents. The box is placed on a countertop next to a faucet and two decorative vegetables, a yellow corn and a green corn cob.",
+        "text_instruction": "The robotic arm opens the cardboard box.",
+        "first_frame": "images/bridge_394.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "put",
+        "text_first_frame": "A robotic arm with green-tipped tongs is holding a yellow squash. Nearby, there are two bowls: one with several red and yellow tomatoes, and the other empty, placed on a countertop next to a smartphone.",
+        "text_instruction": "The robotic arm places a yellow squash into a bowl.",
+        "first_frame": "images/robot_vqa_715.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "put",
+        "text_first_frame": "The countertop features a robotic arm positioned above a stovetop with several metal lids and colorful plastic vegetables scattered around, including a green corn and an orange carrot next to a shiny saucepan. A sink with a faucet is visible to the right, and a purple striped ball rests near a metallic pot in the background.",
+        "text_instruction": "The robotic arm places the metal lid onto the stovetop.",
+        "first_frame": "images/bridge_23.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "put",
+        "text_first_frame": "The robotic arm is positioned above a blue kitchen counter with several colorful objects. A green plate and a green pepper are prominently placed on the counter, ready for the arm to interact with them.",
+        "text_instruction": "The robotic arm picks up the green pepper and puts it on the green plate.",
+        "first_frame": "images/bridge_3056.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "place",
+        "text_first_frame": "A white robotic arm is positioned next to a small container on a wooden surface. A white platform is nearby, under bright lighting, with the arm poised to begin its task.",
+        "text_instruction": "The robotic arm picks up the container and places it on the platform.",
+        "first_frame": "images/taco_play_274.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "turn",
+        "text_first_frame": "A black robotic arm hovers above a white bin filled with various colorful plastic vegetables on a wooden table. The bin contains items like a carrot, bell pepper, corn, and other toy vegetables situated near a light blue wall.",
+        "text_instruction": "The robot arm turns towards the bin of plastic vegetables.",
+        "first_frame": "images/bridge_601.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "put",
+        "text_first_frame": "A robotic arm is positioned near a shelf that holds a red and yellow block. In front of the arm is an empty white tray on a brown surface.",
+        "text_instruction": "The robotic arm puts the yellow block into the white tray.",
+        "first_frame": "images/taco_play_26.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "move",
+        "text_first_frame": "A robotic arm is positioned above a wooden countertop with a piece of sushi placed nearby. A stainless steel pot sits on the right, accompanied by a blue cloth and a utensil.",
+        "text_instruction": "The robotic arm moves sushi from the countertop into the pot.",
+        "first_frame": "images/bridge_1434.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "open",
+        "text_first_frame": "A robotic arm hovers above a toy kitchen counter, which has a small cabinet with a door. The setup includes a faucet, sink, and stove with a burner on the right side.",
+        "text_instruction": "The robotic arm opens the cabinet door.",
+        "first_frame": "images/bridge_2278.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "open",
+        "text_first_frame": "A black robotic arm hovers over a partially opened cardboard box labeled 'kitchen set,' placed on a wooden counter. In the background, there are decorative tiles and some fruits next to a sink-like structure, including an ice cream cone in the foreground.",
+        "text_instruction": "The robotic arm opens a cardboard box.",
+        "first_frame": "images/bridge_459.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "close",
+        "text_first_frame": "A robotic arm hovers over a cardboard box which is open, revealing various colored tools inside. The box is resting on a kitchen stove with visible dials and metallic elements.",
+        "text_instruction": "The robotic arm moves steadily towards the open box.",
+        "first_frame": "images/bridge_1835.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "take",
+        "text_first_frame": "A robotic arm is positioned above a wooden table next to a pink bowl filled with pastries and an empty gray bowl. The background features a large blue screen and various equipment.",
+        "text_instruction": "The robotic arm takes pastries from the pink bowl.",
+        "first_frame": "images/berkeley_autolab_ur5_51.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "close",
+        "text_first_frame": "The scene shows a large jar filled with pistachios positioned on a wooden table. A hand is poised above the jar, holding a black lid next to it with an empty paper cup beside the jar.",
+        "text_instruction": "The hand closes the lid on the jar of pistachios.",
+        "first_frame": "images/robot_vqa_3074.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "slide",
+        "text_first_frame": "A wooden table is set with a folded blue towel resting beside a tomato sauce can, a pineapple can, a yellow sponge, and a metal saucepan. A robotic arm hovers above, ready to interact with the towel.",
+        "text_instruction": "The robotic arm slides a towel across the table.",
+        "first_frame": "images/bridge_1759.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "slide",
+        "text_first_frame": "A black robotic arm is poised above a wooden surface with a yellow cloth laid flat. Nearby are a metal pot with an orange item and a blue-handled utensil.",
+        "text_instruction": "The robotic arm slides a yellow cloth along the wooden surface.",
+        "first_frame": "images/bridge_3033.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "close",
+        "text_first_frame": "A robotic arm is positioned in front of an open cabinet door, inside a kitchen setup with a sink. Various plastic fruits, including a banana and an eggplant, are visible on the shelves behind the door.",
+        "text_instruction": "The robotic arm closes the cabinet door.",
+        "first_frame": "images/bridge_708.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "open",
+        "text_first_frame": "A robotic arm is positioned near a closed refrigerator door in a small kitchen setting that includes a sink and a microwave above. The kitchen setup is compact, and the arm is poised to interact with the handle of the refrigerator.",
+        "text_instruction": "The robotic arm opens the refrigerator door.",
+        "first_frame": "images/bridge_3296.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "turn",
+        "text_first_frame": "A robotic arm is positioned above a flat surface, holding an object. An empty container is placed to the side, ready to receive the object.",
+        "text_instruction": "The robotic arm turns to place an object into the container.",
+        "first_frame": "images/taco_play_31.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "pick",
+        "text_first_frame": "A robotic arm is positioned above a stovetop, next to a metal pot. Another metal pot sits on an adjacent burner, while a sink filled with toy fruits is nearby.",
+        "text_instruction": "The robotic arm picks up the metal pot from the stovetop.",
+        "first_frame": "images/bridge_3062.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "take",
+        "text_first_frame": "A robotic arm hovers over a blue plate with a red toy food item on a white surface. Nearby are a green toy pepper, a red and green toy chili, a yellow toy banana, and a wooden spatula.",
+        "text_instruction": "The robotic arm takes the red toy food item from the blue plate.",
+        "first_frame": "images/bridge_461.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "take",
+        "text_first_frame": "A robotic arm hovers over a metal bowl placed on a wooden surface. Inside the bowl is a green object, and a red-handled spoon rests nearby on the counter.",
+        "text_instruction": "The robotic arm takes the green object from the metal bowl.",
+        "first_frame": "images/bridge_2246.jpg"
+    },
+    {
+        "domain": "robotics",
+        "subdomain": "sweep",
+        "text_first_frame": "A robotic arm is positioned above a table, holding a cylindrical object in its gripper. Nearby, there is a rectangular container and a few other scattered items on the surface.",
+        "text_instruction": "The robotic arm sweeps a cylindrical object along the table.",
+        "first_frame": "images/taco_play_255.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Action.",
+        "text_first_frame": "A player is positioned in an industrial warehouse, aiming down the sights of their weapon. The environment is cluttered with crates, barrels, and a visible train in the background labeled 'AMERICA.'",
+        "text_instruction": "The player moves through the warehouse, aiming down sights and taking cover while advancing towards the capture point.",
+        "first_frame": "images/000000007259.2.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Action.",
+        "text_first_frame": "A character is seen crawling on a dirt path towards a bunker amidst intense explosions. The surroundings include debris and a fiery explosion illuminates the area ahead.",
+        "text_instruction": "The character advances towards a bunker amidst explosions and then opens a green weapon crate.",
+        "first_frame": "images/000000003915.13.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG.",
+        "text_first_frame": "A character in white is casting a spell while a character in armor is readying a magical attack, surrounded by a fiery explosion. The scene includes a combat interface showing health points (HP) and technical points (TP) for four characters at the bottom of the screen.",
+        "text_instruction": "The character in white casts a healing spell while another character in armor readies a magical attack.",
+        "first_frame": "images/000001470732.4.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Action.",
+        "text_first_frame": "Two characters are flying side by side over a rocky landscape with clear blue skies in the background. The scene is dynamic, indicating rapid motion with blurred elements giving a sense of speed.",
+        "text_instruction": "The two characters fly rapidly side by side over a rocky landscape.",
+        "first_frame": "images/000001364500.0.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG (Role-Playing).",
+        "text_first_frame": "A mobile RPG game screen is displayed showing an inventory menu with various items listed in Japanese text. A plush blue character with large white eyes is positioned next to the screen, and the item '\u3069\u3046\u306e\u3064\u308b\u304e' is selected at the top of the menu.",
+        "text_instruction": "The player selects \"\u3069\u3046\u306e\u3064\u308b\u304e\" from the inventory menu on the RPG game.",
+        "first_frame": "images/000001040527.6.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG (Role-Playing).",
+        "text_first_frame": "An armored character in a post-apocalyptic setting aims a large weapon. The background features a cloudy sky and barren landscape, with two other characters starting to prepare their weapons nearby.",
+        "text_instruction": "The armored character aims a large weapon while two other characters prepare their weapons in a post-apocalyptic setting.",
+        "first_frame": "images/000001249309.0.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Action.",
+        "text_first_frame": "In a dimly lit cave, a person aims a weapon at a large, advancing monster with spiky protrusions. Electrical sparks and a 'WET CAVERN' sign are visible in the center of the frame.",
+        "text_instruction": "The character shoots at the advancing monster in the cave.",
+        "first_frame": "images/000000002249.12.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Strategy.",
+        "text_first_frame": "The character stands on a circular stone platform with a large tree to the left. The in-game HUD displays health, abilities, and available gold at the bottom of the screen.",
+        "text_instruction": "The character buys items from the in-game shop in a strategy video game.",
+        "first_frame": "images/000002432090.0.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Simulation.",
+        "text_first_frame": "A view from inside an orange sports car showing the dashboard and steering wheel, with the driver holding a phone in their right hand. The car is on a highway with other vehicles visible in front and in adjacent lanes, and mountains can be seen in the background.",
+        "text_instruction": "The orange sports car speeds down the highway while the driver looks at a phone.",
+        "first_frame": "images/000000003988.3.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Adventure.",
+        "text_first_frame": "A protagonist, covered in swampy water, is seen crawling out of the murky pond. The scene is set in a dense jungle with the distant canopy barely visible through the foliage.",
+        "text_instruction": "The protagonist climbs out of the swampy water and pursues a distant canopy in the adventure game setting.",
+        "first_frame": "images/000000000932.3.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Strategy.",
+        "text_first_frame": "A group of attacking units is advancing through a breached section of the base's defenses, surrounded by scattered debris and damaged structures. The base is heavily fortified with pink walls and various defensive buildings such as archer towers and cannons, some of which are visibly damaged or destroyed.",
+        "text_instruction": "The attacking units break through the defenses and destroy buildings in the enemy base.",
+        "first_frame": "images/000002575337.1.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Strategy.",
+        "text_first_frame": "A game character in a colorful environment stands near green bushes and trees, preparing for an encounter. The UI and chat box are visible at the bottom of the screen, displaying game stats and messages.",
+        "text_instruction": "The character engages the enemy champion in a strategic battle.",
+        "first_frame": "images/000001749581.16.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Adventure.",
+        "text_first_frame": "A misty river at dawn is partially obscured by fog, with a wooden bridge extending across it. An adventurer in armor stands at the edge of the bridge, looking ready to cross.",
+        "text_instruction": "The adventurer crosses a wooden bridge over a misty river at dawn.",
+        "first_frame": "images/000000000747.3.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG.",
+        "text_first_frame": "In a dark RPG setting, a warrior stands ready in a clearing surrounded by debris and lit by small sources of light. Blood stains the ground, and the atmosphere is tense with an imminent battle against a nearby enemy.",
+        "text_instruction": "The warrior attacks the enemy with a powerful strike in a dark RPG setting.",
+        "first_frame": "images/000001947515.13.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Action.",
+        "text_first_frame": "The player views a street through the scope of their rifle, while another player crouches near the sidewalk, preparing to aim down the street. The street is lined with buildings, and a countdown for the game action is displayed on the screen.",
+        "text_instruction": "\"The player crouches and prepares to aim down the street as the countdown to the action in the video game begins.\"",
+        "first_frame": "images/000000369685.4.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Simulation.",
+        "text_first_frame": "Players in purple jerseys are celebrating on the field near the goalpost, with an excited crowd in the stadium visible in the background. The net and several other players, including the goalkeeper in an orange jersey, are also visible.",
+        "text_instruction": "The players in purple jerseys celebrate a goal while the crowd in the stadium cheers enthusiastically.",
+        "first_frame": "images/000000007147.1.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Simulation.",
+        "text_first_frame": "A person is holding two playing cards, one in each hand. The card in the left hand has a green border and blue artwork, while the card in the right hand also has a green border and detailed artwork.",
+        "text_instruction": "\"The player shuffles a card from their hand to reveal the card with a green border and blue artwork.\"",
+        "first_frame": "images/000001584332.1.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG (Role-Playing).",
+        "text_first_frame": "The text 'Furnace PK PK Vid 1' appears in an off-white color on a dark background. There is a bright light in the middle causing the text to look slightly illuminated with a lens flare effect.",
+        "text_instruction": "The text \"Furnace PK PK Vid 1\" flickers on a dark background.",
+        "first_frame": "images/000000561272.0.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Strategy.",
+        "text_first_frame": "A transport plane flies over a game map with clouds scattered in the blue sky. The in-game interface displays player stats on the left and a minimap in the bottom-left corner.",
+        "text_instruction": "The transport plane flies over the game map, preparing to drop players.",
+        "first_frame": "images/000000006197.16.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG (Role-Playing).",
+        "text_first_frame": "Two RPG characters stand side by side under an archway in a snowy landscape. One character is on the left, dressed in armor, while the other is on the right, wearing a long robe with an elaborate structure behind them.",
+        "text_instruction": "\"The two RPG characters stand under an archway in a snowy landscape.\"",
+        "first_frame": "images/000002537330.2.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Strategy.",
+        "text_first_frame": "A player's base in a strategy game is shown, featuring various defensive structures such as cannons, towers, and walls. Pink elixir storage tanks and resource collectors are scattered throughout the base.",
+        "text_instruction": "The player organizes their base defenses in a strategy game.",
+        "first_frame": "images/000002438634.4.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Action.",
+        "text_first_frame": "The player wearing an orange jacket and a yellow backpack is taking cover behind a large rock in a grassy area with trees in the background. The player is crouched and aiming a gun towards an unseen enemy.",
+        "text_instruction": "\"The player in orange jacket fires at an enemy while taking cover behind a rock in an action video game.\"",
+        "first_frame": "images/000000006154.36.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG.",
+        "text_first_frame": "Two characters are standing on a dirt path in a grassy area with a large tree and a wooden signpost in the background. One character's portrait and dialogue text box appear on the screen, reading 'We should get some sleep now.'",
+        "text_instruction": "The characters discuss getting some sleep for rest.",
+        "first_frame": "images/000001321816.1.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Strategy.",
+        "text_first_frame": "A tank is positioned in the foreground with its cannon aiming towards a distant landscape. In the distance, two enemy tanks are marked with red indicators, situated among sparse trees and rolling hills.",
+        "text_instruction": "The tank aims its cannon at the red-marked enemy tank in the distance.",
+        "first_frame": "images/000001685215.6.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG.",
+        "text_first_frame": "In the first frame, an RPG character is seen in a combat environment, standing on a snowy, cobblestone path with several other characters and enemies positioned around. The HUD displays character status and various action bars along with visible spell effects indicating ongoing combat.",
+        "text_instruction": "\"The RPG character casts a spell at an enemy, dealing 2601 damage.\"",
+        "first_frame": "images/000001167322.13.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Simulation.",
+        "text_first_frame": "A blue car is positioned on a dirt track surrounded by black and yellow arrow signs and cheering spectators. The scene is set in a dusty environment with palm trees and a city skyline visible in the hazy background.",
+        "text_instruction": "The blue car drifts around a dirt track in a simulation video game.",
+        "first_frame": "images/000000006987.0.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG (Role-Playing).",
+        "text_first_frame": "A player character stands in a dark forest, facing a glowing green beacon in the distance. The sky is dimly lit, adding an eerie ambiance to the scene.",
+        "text_instruction": "The player character runs through the dark forest towards the glowing green beacon.",
+        "first_frame": "images/000000001730.20.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Action.",
+        "text_first_frame": "A large mutant creature stands in a dimly lit industrial room, surrounded by sparks and machinery. The creature is preparing to attack an off-screen enemy, with another mutant creature visible in the background.",
+        "text_instruction": "The mutant creature charges forward and strikes the enemy with a powerful punch.",
+        "first_frame": "images/000000004332.0.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG.",
+        "text_first_frame": "The screen displays the RPG game menu with the 'Skills' section open. The left sidebar lists three options: Leviathan Axe, Blades of Chaos, and Atreus, while the right side is blank.",
+        "text_instruction": "\"The skill tree highlights the Blades of Chaos abilities in the RPG game menu.\"",
+        "first_frame": "images/000000003277.18.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Simulation.",
+        "text_first_frame": "Two football players in yellow and navy uniforms, with '26' visible on one player's back, converge to tackle an opponent in white and red near the end zone. The opponent is holding a football while trying to maintain balance near the white line.",
+        "text_instruction": "\"Two football players tackle an opponent near the end zone in a football simulation game.\"",
+        "first_frame": "images/000000772155.8.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Adventure.",
+        "text_first_frame": "A truck is parked in a dimly lit, dystopian, adventure game environment. The scene features sparse, eerie lighting, abandoned vehicles, and a large structure with glowing lights in the background.",
+        "text_instruction": "A truck drives through a dimly lit, dystopian, adventure game environment.",
+        "first_frame": "images/000000000073.6.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Action.",
+        "text_first_frame": "A player holding a gun is positioned next to a corner in an alley with cobblestone pavement. The player is approaching a corner with a map and various indicators displayed on the screen.",
+        "text_instruction": "\"The player carefully turns the corner, aiming their gun at an approaching enemy.\"",
+        "first_frame": "images/000000006078.7.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Adventure.",
+        "text_first_frame": "A purple alien with two eyes on stalks sits on a black couch in a living room, beside a pink alien with a spiky crest. The living room background includes a poster on the wall, a plant, and a kitchen area visible behind them.",
+        "text_instruction": "\"The purple alien with two eyes on stalks converses with the pink alien in a living room setting.\"",
+        "first_frame": "images/000000003190.32.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Adventure.",
+        "text_first_frame": "A heavily armored adventurer is standing at the bottom of a wooden stairway, holding a shield and a sword. The scene is set outdoors during sunset, with a stone fortress visible in the background and surrounded by trees.",
+        "text_instruction": "The armored adventurer ascends the wooden stairs towards the stone fortress.",
+        "first_frame": "images/000000001069.10.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Adventure.",
+        "text_first_frame": "A character dressed in white with a hat stands on a foggy, deserted path. The path is surrounded by rocky terrain with wooden structures on the sides, and an ominous structure is visible in the distance.",
+        "text_instruction": "The character in white runs up a foggy, deserted path towards an ominous structure.",
+        "first_frame": "images/000000002325.10.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Adventure.",
+        "text_first_frame": "A character in a red Hawaiian shirt is walking on a bright blue high platform towards another character who is standing near the edge. Below the platform is a coastal landscape with buildings and greenery visible.",
+        "text_instruction": "The character in the red Hawaiian shirt approaches another character standing near the edge of a high platform.",
+        "first_frame": "images/000000006171.5.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG.",
+        "text_first_frame": "A fiery explosion engulfs the battlefield as an RPG character stands ready with a sword in hand, indicated by the cluttered user interface and status bars. Small flickers of flames and debris scatter around, amidst a chaotic battle scene.",
+        "text_instruction": "The RPG character swings a sword amidst a fiery explosion.",
+        "first_frame": "images/000000816824.12.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG.",
+        "text_first_frame": "A character is seen on the left side of a grassy, post-combat terrain. The screen displays a waypoint marker labeled 'Wiz' and the text 'THE MASTERPLAN' with 'Return to Giz Out-of-Date' on the upper left, and a small fire is on the right next to various icons including a gear icon and 'PLUM' written next to a button prompt.",
+        "text_instruction": "\"The character navigates post-combat terrain to access the inventory screen and review gear and character stats.\"",
+        "first_frame": "images/000000003876.89.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Strategy.",
+        "text_first_frame": "A group of tanks is positioned on a grassy battlefield, forming a strategic formation with several craters visible on the ground. Various icons, menus, and information are displayed around the screen, indicating a real-time strategy game interface.",
+        "text_instruction": "The tanks advance towards the enemy base in a strategic formation.",
+        "first_frame": "images/000000625423.3.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG.",
+        "text_first_frame": "An armored warrior with blue and silver armor and feathered adornments stands facing a robed sorcerer in an ornate, dimly lit chamber with mystical symbols on the floor. In the background, two other figures are present near a fire pit.",
+        "text_instruction": "The armored warrior demands the sorcerer to reverse the spell.",
+        "first_frame": "images/000000002975.12.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Strategy.",
+        "text_first_frame": "A stack of strategy game cards, encased in protective sleeves, is neatly arranged on a playmat with various characters printed on it. The three visible cards display colorful illustrations and text descriptions, surrounded by a border.",
+        "text_instruction": "The person shuffles and sets down a stack of strategy game cards.",
+        "first_frame": "images/000000875076.3.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Adventure.",
+        "text_first_frame": "An adventurer carrying a bow and arrows on his back stands at the edge of a cliff. The background features a vast mountainous landscape with snow-capped peaks and misty clouds.",
+        "text_instruction": "\"The adventurer walks towards the edge of a cliff, overlooking a vast mountainous landscape.\"",
+        "first_frame": "images/000000002724.11.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG (Role-Playing).",
+        "text_first_frame": "A group of RPG players, dressed in various costumes and armor, gathers around a central statue in a town square. The scene is set in a medieval-themed environment, with cobblestone streets and ornate architecture visible in the background.",
+        "text_instruction": "\"A group of RPG players gathers around a central statue in a town square.\"",
+        "first_frame": "images/000001339958.1.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Simulation.",
+        "text_first_frame": "The car is driving on a muddy, rain-soaked track with its windshield wipers active. The view through the windshield shows raindrops, an overcast sky with clouds, and trees lining the track.",
+        "text_instruction": "\"The car drives through a muddy, rain-soaked track with its windshield wipers active.\"",
+        "first_frame": "images/000000006817.0.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "RPG.",
+        "text_first_frame": "The screen displays the inventory menu with various tabs at the top, including 'JOURNAL,' 'INVENTORY,' 'CRAFTING,' 'SKILLS,' 'FACILITIES,' 'MAILBOX,' and 'SURVIVORS.' At the bottom, there are icons for health, stamina, and loadout, along with various inventory items.",
+        "text_instruction": "The character navigates through inventory and crafting menus to select and craft an energy pistol, then checks the skills and map sections.",
+        "first_frame": "images/000000002388.11.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Adventure.",
+        "text_first_frame": "An adventurer dressed in explorer attire is situated on a lush jungle path surrounded by dense foliage. The path, lined with various tropical plants and towering trees, appears well-trodden and illuminated by natural sunlight filtering through the canopy.",
+        "text_instruction": "The adventurer runs through a lush jungle path.",
+        "first_frame": "images/000000000236.5.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Strategy.",
+        "text_first_frame": "A character with a green health bar is surrounded by dense forest, standing on a path with a mix of shadows and light. Part of the game interface is visible, showing character stats and abilities at the bottom of the screen.",
+        "text_instruction": "The character moves through a forested area in the strategy video game.",
+        "first_frame": "images/000001156911.0.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Simulation.",
+        "text_first_frame": "Two soccer players in blue and black striped jerseys are celebrating on the field, one kneels while the other embraces them. The stadium seats in the background show a crowd and players on the bench wearing green bibs.",
+        "text_instruction": "\"The players celebrate a goal in a soccer simulation game.\"",
+        "first_frame": "images/000000007368.1.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Action.",
+        "text_first_frame": "A character wearing a red outfit, white gloves, and a yellow backpack stands on top of a set of large blue shipping containers in an industrial area. The environment includes other shipping containers, an industrial building, and a partially cloudy sky.",
+        "text_instruction": "The character in the red outfit jumps onto a series of shipping containers.",
+        "first_frame": "images/000000006098.23.jpg"
+    },
+    {
+        "domain": "video games",
+        "subdomain": "Simulation.",
+        "text_first_frame": "A police car with red tail lights is positioned on a dimly lit urban street at night. The street is flanked by buildings, some with illuminated windows, casting a glow on the surroundings.",
+        "text_instruction": "\"The police car drives down a dimly lit urban street at night.\"",
+        "first_frame": "images/000001269089.0.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A person in a pink outfit with a blue head covering is energetically moving towards a console. In the background, two other individuals are present; one is filming while the other is sitting and appears to be working with a toolbox on the floor.",
+        "text_instruction": "The person in the pink outfit humorously bangs their head against a console while another person films in the background.",
+        "first_frame": "images/88f6d8ad-8681-402a-a3fe-a9c2bbde42c3.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Adventure",
+        "text_first_frame": "An elf girl with long, straight hair and a concerned expression is looking slightly to the side, her mouth slightly open as if about to speak. She has large, pointed ears and is wearing a detailed collar, with a dimly lit brick wall in the background.",
+        "text_instruction": "\"The elf girl, with a concerned expression, speaks to someone off-screen.\"",
+        "first_frame": "images/5d6cd255-7a7f-4313-822c-6dd9f7ed0b14.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A man wearing a white dress shirt and black tie points his finger forward. They are situated in a room with orange walls and a yellow strip near the ceiling.",
+        "text_instruction": "The girl clenches her fist in anger.",
+        "first_frame": "images/fe80dd12-204a-4510-b364-fc67d08431e4.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A person with robotic arms stands alone in a large, dimly lit concrete chamber, with faint particles floating in the air. The chamber has tall cylindrical pillars and a bright, illuminated background wall.",
+        "text_instruction": "The robotic-armed person frees a woman from black tendrils.",
+        "first_frame": "images/ba746e90-4da8-45ba-94d2-c7e6506ad6d5.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Drama",
+        "text_first_frame": "A spaceship is surrounded by a turbulent, colorful nebula with red, blue, and purple hues. The surroundings contain dark, angular shapes that seem to represent debris or celestial objects.",
+        "text_instruction": "The spaceship navigates through a turbulent, colorful nebula.",
+        "first_frame": "images/a9cf2b51-8ca5-4197-883b-a18b70bf6a70.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "Snowy wind blows through dense trees on a mountainside, creating a flurry of snowflakes. The trees are heavily laden with snow, and the slope is covered in a thick blanket of white snow.",
+        "text_instruction": "The snowy wind blows through the trees on a mountainside.",
+        "first_frame": "images/ae0f8668-e8bf-48e5-9a45-8a0403004d87.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "The ruins of an ancient building are scattered across the ground, with several broken columns standing upright. A colossal stone snake is partly visible in the background, starting to coil around the remnants of the structure.",
+        "text_instruction": "The colossal stone snake coils around and crushes the ruins of the ancient building.",
+        "first_frame": "images/890a6c7b-aa6f-49b4-a739-67e915f5061b.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "Two characters are facing each other in an indoor setting. One character carries a backpack with a visible light-colored strap over their shoulder, and part of a machinery or weapon is visible in the background.",
+        "text_instruction": "\"The warrior draws his sword and charges toward the group.\"",
+        "first_frame": "images/ce6b8d77-b101-4c8e-9e2d-3512acf6244b.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A close-up of an anime character's face with large purple eyes, tearful and sad expression. Wisps of their light brown hair frame their face, creating a melancholic atmosphere.",
+        "text_instruction": "\"The character's expression shifts from sadness to determination.\"",
+        "first_frame": "images/6744c482-c48c-48fe-b2ca-e298efd412ac.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A surreal, glowing cube protrudes from a massive purple building while people gather below observing the spectacle. Several cars are parked nearby as the sun casts a pinkish hue over the scene.",
+        "text_instruction": "A surreal, glowing cube protrudes from a massive building while people gather below observing the spectacle.",
+        "first_frame": "images/8e5a66a6-12e6-4caf-b9fe-1c959283af87.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A person is holding a bundle of colorful envelopes tied together with a brown string. The scene takes place outdoors next to a traditional building with a tiled roof.",
+        "text_instruction": "The person anxiously sorts through a bundle of envelopes while exclaiming, \"This is terrible.\"",
+        "first_frame": "images/be123b0b-e85f-4360-9894-ae72a5a91742.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Sci-Fi",
+        "text_first_frame": "A couple stands close together on a bridge at dusk, with their foreheads leaning against each other. The background features a purple sky with clouds and a view of the water beyond the bridge's railing.",
+        "text_instruction": "\"The couple leans their foreheads together on a bridge at dusk.\"",
+        "first_frame": "images/ac12950b-ce3b-45eb-8605-278ed6610afa.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A young girl with long hair stands in front of a tent under an evening sky. She is clasping a piece of paper while looking at it with a shocked expression.",
+        "text_instruction": "The character looks down at the paper with a shocked expression.",
+        "first_frame": "images/40e43ed2-b1d5-48ee-8cb7-5548c9e3e086.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A witch wearing a hat flies through the night sky on a broomstick against a backdrop of a full moon. She leaves a trail of sparkling particles behind her as she soars above a cityscape.",
+        "text_instruction": "The witch flies through the night sky on her broomstick, leaving a trail of sparkling particles behind.",
+        "first_frame": "images/5488116d-33f4-489c-8e1a-2c995bc43ac8.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A character with light blonde hair stands in front of a wooden window pane. The window reveals a blurred outdoor view, providing natural light to the scene.",
+        "text_instruction": "The character bursts into uncontrollable laughter.",
+        "first_frame": "images/de55a3ba-b700-438e-91d7-7904c109b761.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "Several cherry blossom petals are attached to the branches of a tree, against a soft background of green and pink hues. A gentle breeze stirs, and a few petals are beginning to fall and float in the air.",
+        "text_instruction": "Cherry blossom petals gently fall from the tree.",
+        "first_frame": "images/536fbc54-2a4a-4186-8275-fd74f58722c8.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Boys Love",
+        "text_first_frame": "A blond-haired character stands beside another person with red hair, near a wall with a painting of purple flowers. A boy with pink hair stands across from them in a hallway, partially visible from the side.",
+        "text_instruction": "The blond-haired character intensely gazes at the boy with pink hair while they stand in a hallway.",
+        "first_frame": "images/c5f6539e-b26a-4263-b13f-d93ca587744d.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "The frame depicts colorful Japanese characters with a pink background. The text 'The Law of Ueki' is starting to appear at the bottom.",
+        "text_instruction": "The text \"The Law of Ueki\" fades in and out on the screen with colorful Japanese characters in the background.",
+        "first_frame": "images/8a83776a-1a81-424d-ac56-2b5591d4fb69.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "An armored character with white hair and visible blood stains on their face and armor is seen against a dark, rocky background. The character's eyes are closed, and they appear to be in pain or exhausted.",
+        "text_instruction": "The armored character turns to face the blonde character.",
+        "first_frame": "images/5e8d1ec4-4ba7-4a3d-9ed2-3bd1629d0b94.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A person is seated at a wooden desk with a lit lamp, books, and other study materials. A clock is mounted on the wall above and a uniform is hanging beside it.",
+        "text_instruction": "\"The person at the desk gets startled by a comedic noise.\"",
+        "first_frame": "images/e05bfd02-7a01-484e-bd2d-9995a796df19.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A character with dark hair stands in a dimly lit room, their face partially visible. In front of them is an illuminated computer screen along with a keyboard, mouse, and CPU tower casting light on the floor.",
+        "text_instruction": "\"The character stands in front of an illuminated computer screen in a dimly lit room.\"",
+        "first_frame": "images/d4ed4b9a-67e6-4c53-bdc5-7ef3f6b36afd.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Drama",
+        "text_first_frame": "A girl with ponytails sits dejectedly at a table, while another person in a green shirt and shorts stands by an open refrigerator. There is a flower vase on the table and an orange bag hanging on the wall.",
+        "text_instruction": "\"The girl with ponytails sits dejectedly at the table while contemplating unresolved feelings.\"",
+        "first_frame": "images/7d266992-0dd7-4719-8f71-389f0fb47abb.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Award Winning",
+        "text_first_frame": "A bound and chained individual in a red outfit is sitting inside a carriage, surrounded by small creatures with glowing eyes in a dark environment.",
+        "text_instruction": "The bound and chained individual inside the carriage is surrounded by small creatures as they take off and fly into the sky.",
+        "first_frame": "images/db6f92df-bb79-4d2b-bc8b-65fe2cedeafb.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Drama",
+        "text_first_frame": "A woman dressed in a dark, off-shoulder dress stands against a dark background, smiling sinisterly. She holds a helmet partially covered with a white cloth in her right hand.",
+        "text_instruction": "The woman in the dark dress holds up a helmet with a sinister smile.",
+        "first_frame": "images/72e0b97e-2502-4047-95e9-256a9b68970e.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A character with red hair in a black and red shirt stands near a girl with light brown hair in front of a building labeled 'TAKAMIYA'. There are green bushes and flowers near them.",
+        "text_instruction": "The character with red hair turns to smile.",
+        "first_frame": "images/78509c7b-32a7-47c4-8f5d-4674c5bbdc48.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A side profile of a character with pink hair adorned with a hairpin, looking up at the night sky. The character has blue eyes and a small, satisfied smile, against a dark blue starry sky backdrop.",
+        "text_instruction": "The character with pink hair speaks while looking up at the night sky.",
+        "first_frame": "images/97d5c0cd-57f9-4131-a1c6-34494c8ad708.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Adventure",
+        "text_first_frame": "A girl with a snack in one hand stands in front of a stone wall. In the background, a guard stands holding a spear, also in front of the stone wall.",
+        "text_instruction": "\"The girl holds a snack near her mouth while a guard stands with a spear.\"",
+        "first_frame": "images/b24c19b4-5709-449c-bea8-461f08ccd6a9.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Adventure",
+        "text_first_frame": "The first frame shows a girl in red uniform kneeling and reaching out towards a boy who is crouching on the floor. Another girl in a red uniform is standing behind them, holding a box labeled 'O2' in a dimly lit hallway.",
+        "text_instruction": "\"The girl in the red uniform kneels to comfort the boy before running down a dimly lit hallway.\"",
+        "first_frame": "images/627e8db1-9e7d-4f2f-bd0f-1eb5018f0034.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A character with pink hair is standing in front of a dark, rugged backdrop featuring large stones and a weathered pathway. The character is wearing a light-colored garment with high collars under a darker overcoat.",
+        "text_instruction": "The character sternly says \"No.\" with closed eyes.",
+        "first_frame": "images/fa9df40b-d51c-4001-ad0e-06446afd96a8.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Adventure",
+        "text_first_frame": "A girl with long white hair, adorned with green ribbons, is sitting indoors partially facing left. She has wide-open red eyes and is wearing a yellow outfit with a red gem brooch.",
+        "text_instruction": "\"The girl with white hair smiles gently, conveying warmth and comfort.\"",
+        "first_frame": "images/5dcb545c-df5e-41d7-aee5-682d8a75e422.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Adventure",
+        "text_first_frame": "Two girls stand outdoors, one in a green outfit is holding a sword sheath. The scene is set against a background of foliage and a traditional building.",
+        "text_instruction": "The girl with a sword sheath raises and grips the handle of her sword.",
+        "first_frame": "images/dbedb8c5-2555-4e63-9356-3ccb8bb9caf9.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A character is shown riding a motorcycle towards a large, curved wall under a vibrant, orange and red sky. The character is positioned at the bottom center of the frame with the motorcycle's headlight glowing brightly.",
+        "text_instruction": "The character rides a motorcycle towards a large wall.",
+        "first_frame": "images/16928746-fabb-4511-96b6-3cecbf300b85.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "The character in a green cloak appears in a dimly lit room with cages in the background, facing forward with a serious expression. The lighting highlights the character's face and the bars of the cages behind him.",
+        "text_instruction": "\"The character in the green cloak confronts a man in a top hat holding a staff in a dimly lit room with cages.\"",
+        "first_frame": "images/3d9b7be8-2f87-43f2-b35e-ee094209c209.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A girl in a red outfit with a headband looks towards another girl with black hair styled in pigtails, who is wearing a pink dress with a red bow. They are both sitting outdoors with a clear blue sky and green trees in the background.",
+        "text_instruction": "The girl in the red outfit makes a triumphant expression while smiling, and the girl with pigtails reacts happily.",
+        "first_frame": "images/3dfac9fb-0855-46a5-9f2a-29ad52ec96da.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A chef in a white uniform and hat is shown with a determined expression. The background is a clear blue sky with a few clouds.",
+        "text_instruction": "The chef throws the red tomato with a determined expression.",
+        "first_frame": "images/9916b9b9-52a3-4d78-a9c2-3afca037ee34.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Slice of Life",
+        "text_first_frame": "A person sits contemplatively on the floor inside a dimly lit cell. A motorcycle is parked next to them under the light from a small barred window on the cell wall.",
+        "text_instruction": "The person contemplates sitting on the floor with a motorcycle inside a dimly lit cell.",
+        "first_frame": "images/b19d9eb0-8585-4952-a4b5-44711f0fa410.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A pair of hands holds a metallic surface reflecting light, seen in an indoor setting with dim lighting and blurred background objects. The character's legs are visible beneath the held surface, indicating they are seated.",
+        "text_instruction": "\"The character reveals a surprised face reflecting on the metallic surface.\"",
+        "first_frame": "images/92ec5d48-97a1-426a-b4e3-818e4d4ac5cf.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A character with blonde hair and purple eyes stares at the sky. The sky in the background has a few fluffy clouds visible.",
+        "text_instruction": "The character with blonde hair and purple eyes falls asleep while staring at the sky.",
+        "first_frame": "images/19aa0f3b-7449-4f49-9e2b-14dd9f73de8d.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A quiet street corner is seen from an aerial view, surrounded by dense green trees and the roof of a nearby building. A woman wearing a red outfit and helmet is approaching on a motorcycle from the right side of the frame.",
+        "text_instruction": "\"The woman in red rides the motorcycle comedically around the corner.\"",
+        "first_frame": "images/838efe58-a6bb-4dd2-8e40-edb87f4654bf.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A taller character with long brown hair and a white outfit adorned with red ribbons hugs a shorter character with short black hair and a white and green outfit. They stand in front of a wooden door with a wall plaque on the left side.",
+        "text_instruction": "The taller character hugs the shorter character tightly while both faces express surprise.",
+        "first_frame": "images/5d1cdc55-885a-4dfa-9d01-f818be6a78d0.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A character with wide eyes and red cheeks is sweating and appears tense in a dimly lit setting. The character's dark hair and blue-toned face are visible, with shadows accentuating their intense expression.",
+        "text_instruction": "The character charges forward with intense speed and determination.",
+        "first_frame": "images/2d5d0b11-6e3f-441e-9075-e0c683de23dd.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A character with a light beige hoodie and red accents stands in front of a dark curtain. The background is dimly lit with blue light, creating a tense atmosphere.",
+        "text_instruction": "The characters engage in a tense conversation.",
+        "first_frame": "images/af8122cd-62c2-46d8-8e08-ab4e3c3d26f5.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Fantasy",
+        "text_first_frame": "An armored figure stands in a forest, with green foliage in the background. The figure's armor is detailed and they are wearing a hooded cloak.",
+        "text_instruction": "1. \"The armored figure draws a glowing sword, and ivy magically binds a person while they emit blue light from a wound.\"\n2. \"The boy offers a blue book to the woman in a purple dress.\"",
+        "first_frame": "images/270b31cc-2ebf-4aea-9c1b-d2051ec9c196.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Adventure",
+        "text_first_frame": "A girl with blonde hair stands on a balcony, gazing at the sunset. She holds a juice box in her hands.",
+        "text_instruction": "The girl gazes at the sunset, holding a juice box.",
+        "first_frame": "images/8ce7c3c4-edac-4306-a541-bd1c89221932.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Drama",
+        "text_first_frame": "A character with long hair and a golden headpiece has their eyes closed. The space around their face is beginning to fill with soft orange sparkles.",
+        "text_instruction": "The character's eyes slowly open while soft orange sparkles appear around their face.",
+        "first_frame": "images/b9f17d8b-cf87-4ee0-9566-bb3995b3cd75.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Action",
+        "text_first_frame": "A person stands on a balcony, dressed in a dark suit, gazing towards a lake that stretches out with green hills and blue sky in the background. The balcony is attached to a light-colored house with a glass door behind the person.",
+        "text_instruction": "\"The person on the balcony gazes at the lake.\"",
+        "first_frame": "images/62bd537a-5a31-492e-ae20-4ed615a91c11.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Comedy",
+        "text_first_frame": "A blonde girl in a red jacket stands facing a brown-haired boy in a beige jacket. They are inside a wooden room, and the boy has his hands on her shoulders.",
+        "text_instruction": "The girl closes her eyes before quickly opening them.",
+        "first_frame": "images/84356a87-d870-4232-8caf-18c4b069026a.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Drama",
+        "text_first_frame": "A character with long white hair and cat ears is standing in front of a wooden background with eyes closed, appearing calm. The scene is set outdoors with parts of the blue sky and some greenery visible in the background.",
+        "text_instruction": "The character with cat ears touches his own ear gently.",
+        "first_frame": "images/055680b1-e4e9-4195-b12c-1c4fdb365302.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Mystery",
+        "text_first_frame": "A figure is prominently displayed at the center of the frame, while a person in the background walks towards the right across a darkly lit environment. The figure appears to be seated and operating a device with both hands covered by gloves.",
+        "text_instruction": "The figure operates a device while the person in the background walks towards the right.",
+        "first_frame": "images/50f7177b-5ae1-434d-8ba2-4f50fc599222.jpg"
+    },
+    {
+        "domain": "animation",
+        "subdomain": "Award Winning",
+        "text_first_frame": "A figure is entangled in multiple cables, floating suspended in a green liquid. The figure's limbs and body are wrapped with the cables, creating a dense network floating around them.",
+        "text_instruction": "\"The figure entangled in multiple cables floats suspended in a green liquid.\"",
+        "first_frame": "images/96f247d4-891f-48ab-812c-93f290188f33.jpg"
+    }
+]
