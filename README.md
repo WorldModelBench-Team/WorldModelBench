@@ -5,7 +5,8 @@
 This repo contains the evaluation instructions for the paper "[WorldModelBench: Judging Video Generation Models As World Models](https://arxiv.org/pdf/2502.20694)".
 
 ## 🔔News
-
+- **🔥[2025-07-28]: We have moved the data from huggingface to github for easier documentation.**
+- **🔥[2025-05-21]: WorldModelBench has been accepted as an oral paper in the CVPR 2025 WorldModelBench workshop. 😆**
 - **🔥[2025-03-02]: Our [WorldModelBench](https://worldmodelbench-team.github.io/) is now available. We look forward to your participation! 😆**
 
 ## Introduction
@@ -20,7 +21,7 @@ WorldModelBencha is a benchmark designed to evaluate the **world modeling capabi
 
 🎯 Please refer to the following instructions to evaluate with WorldModelBench:
 - **Environment Setup**: Clone and install VILA by following the instructions in [VILA Installation Guide](https://github.com/NVlabs/VILA?tab=readme-ov-file#installation).
-- **Data&Model Preparation**: Download [WorldModelBench test set](https://huggingface.co/datasets/Efficient-Large-Model/worldmodelbench) and the [judge](https://huggingface.co/Efficient-Large-Model/vila-ewm-qwen2-1.5b) separately.
+- **Data&Model Preparation**: Download the [judge](https://huggingface.co/Efficient-Large-Model/vila-ewm-qwen2-1.5b).
 ```
 └── worldmodelbench
     └── images (first frames of videos)
